@@ -1,0 +1,4494 @@
+no change     /home/dse316/miniconda3/condabin/conda
+no change     /home/dse316/miniconda3/bin/conda
+no change     /home/dse316/miniconda3/bin/conda-env
+no change     /home/dse316/miniconda3/bin/activate
+no change     /home/dse316/miniconda3/bin/deactivate
+no change     /home/dse316/miniconda3/etc/profile.d/conda.sh
+no change     /home/dse316/miniconda3/etc/fish/conf.d/conda.fish
+no change     /home/dse316/miniconda3/shell/condabin/Conda.psm1
+no change     /home/dse316/miniconda3/shell/condabin/conda-hook.ps1
+no change     /home/dse316/miniconda3/lib/python3.12/site-packages/xontrib/conda.xsh
+no change     /home/dse316/miniconda3/etc/profile.d/conda.csh
+no change     /home/dse316/.bashrc
+No action taken.
+No wandb entity provided, Continuing without wandb
+Loading ./beton/cifar10/train/train_32.beton
+Loading ./beton/cifar10/val/val_32.beton
+Epoch 1        Time: 17.7753267288208
+-------------- Training ----------------
+Average Training Loss:        2.860153
+Average Training Accuracy:    15.5375
+Top 5 Training Accuracy:      61.3261
+---------------- Test ------------------
+Test Accuracy         22.3700
+Top 5 Test Accuracy           69.3600
+
+Epoch 2        Time: 2.2721011638641357
+-------------- Training ----------------
+Average Training Loss:        2.754217
+Average Training Accuracy:    18.7073
+Top 5 Training Accuracy:      61.4176
+---------------- Test ------------------
+Test Accuracy         23.2100
+Top 5 Test Accuracy           66.4900
+
+Epoch 3        Time: 2.1842222213745117
+-------------- Training ----------------
+Average Training Loss:        2.400613
+Average Training Accuracy:    21.3074
+Top 5 Training Accuracy:      66.3452
+---------------- Test ------------------
+Test Accuracy         28.1600
+Top 5 Test Accuracy           72.3500
+
+Epoch 4        Time: 2.1532955169677734
+-------------- Training ----------------
+Average Training Loss:        2.349941
+Average Training Accuracy:    20.5424
+Top 5 Training Accuracy:      65.7857
+---------------- Test ------------------
+Test Accuracy         29.9600
+Top 5 Test Accuracy           76.6200
+
+Epoch 5        Time: 2.016697645187378
+-------------- Training ----------------
+Average Training Loss:        2.310016
+Average Training Accuracy:    23.2341
+Top 5 Training Accuracy:      68.3879
+---------------- Test ------------------
+Test Accuracy         30.9600
+Top 5 Test Accuracy           80.3800
+
+Epoch 6        Time: 2.006682872772217
+-------------- Training ----------------
+Average Training Loss:        2.204009
+Average Training Accuracy:    22.9574
+Top 5 Training Accuracy:      72.3694
+---------------- Test ------------------
+Test Accuracy         33.7800
+Top 5 Test Accuracy           78.3100
+
+Epoch 7        Time: 2.0515806674957275
+-------------- Training ----------------
+Average Training Loss:        2.240812
+Average Training Accuracy:    22.8882
+Top 5 Training Accuracy:      70.4081
+---------------- Test ------------------
+Test Accuracy         34.8300
+Top 5 Test Accuracy           80.8300
+
+Epoch 8        Time: 2.090240240097046
+-------------- Training ----------------
+Average Training Loss:        2.139591
+Average Training Accuracy:    25.7996
+Top 5 Training Accuracy:      75.9969
+---------------- Test ------------------
+Test Accuracy         34.8900
+Top 5 Test Accuracy           82.5700
+
+Epoch 9        Time: 2.1029181480407715
+-------------- Training ----------------
+Average Training Loss:        2.114210
+Average Training Accuracy:    26.1658
+Top 5 Training Accuracy:      75.4944
+---------------- Test ------------------
+Test Accuracy         34.6200
+Top 5 Test Accuracy           83.6200
+
+Epoch 10        Time: 1.9209060668945312
+-------------- Training ----------------
+Average Training Loss:        2.139903
+Average Training Accuracy:    26.1902
+Top 5 Training Accuracy:      75.3255
+---------------- Test ------------------
+Test Accuracy         37.7400
+Top 5 Test Accuracy           83.5400
+
+Epoch 11        Time: 2.1740667819976807
+-------------- Training ----------------
+Average Training Loss:        2.063762
+Average Training Accuracy:    29.4617
+Top 5 Training Accuracy:      79.1402
+---------------- Test ------------------
+Test Accuracy         37.5800
+Top 5 Test Accuracy           87.4500
+
+Epoch 12        Time: 1.9888298511505127
+-------------- Training ----------------
+Average Training Loss:        2.074176
+Average Training Accuracy:    27.0162
+Top 5 Training Accuracy:      77.7303
+---------------- Test ------------------
+Test Accuracy         37.8200
+Top 5 Test Accuracy           82.7300
+
+Epoch 13        Time: 2.309636354446411
+-------------- Training ----------------
+Average Training Loss:        2.098001
+Average Training Accuracy:    26.5015
+Top 5 Training Accuracy:      74.7742
+---------------- Test ------------------
+Test Accuracy         42.2100
+Top 5 Test Accuracy           89.1500
+
+Epoch 14        Time: 1.9656054973602295
+-------------- Training ----------------
+Average Training Loss:        2.006285
+Average Training Accuracy:    31.4209
+Top 5 Training Accuracy:      81.2805
+---------------- Test ------------------
+Test Accuracy         39.0800
+Top 5 Test Accuracy           87.1000
+
+Epoch 15        Time: 2.2982096672058105
+-------------- Training ----------------
+Average Training Loss:        2.083611
+Average Training Accuracy:    28.0233
+Top 5 Training Accuracy:      79.0100
+---------------- Test ------------------
+Test Accuracy         41.2100
+Top 5 Test Accuracy           87.3300
+
+Epoch 16        Time: 2.048497438430786
+-------------- Training ----------------
+Average Training Loss:        1.992396
+Average Training Accuracy:    30.9550
+Top 5 Training Accuracy:      80.8289
+---------------- Test ------------------
+Test Accuracy         40.8200
+Top 5 Test Accuracy           89.0000
+
+Epoch 17        Time: 2.2384467124938965
+-------------- Training ----------------
+Average Training Loss:        2.105717
+Average Training Accuracy:    27.9500
+Top 5 Training Accuracy:      78.4688
+---------------- Test ------------------
+Test Accuracy         41.1400
+Top 5 Test Accuracy           87.1400
+
+Epoch 18        Time: 1.9919490814208984
+-------------- Training ----------------
+Average Training Loss:        1.990247
+Average Training Accuracy:    31.3843
+Top 5 Training Accuracy:      81.4331
+---------------- Test ------------------
+Test Accuracy         41.0400
+Top 5 Test Accuracy           88.1400
+
+Epoch 19        Time: 2.301814079284668
+-------------- Training ----------------
+Average Training Loss:        1.958454
+Average Training Accuracy:    32.0333
+Top 5 Training Accuracy:      82.7698
+---------------- Test ------------------
+Test Accuracy         41.0800
+Top 5 Test Accuracy           89.6300
+
+Epoch 20        Time: 2.023864507675171
+-------------- Training ----------------
+Average Training Loss:        2.026639
+Average Training Accuracy:    29.2155
+Top 5 Training Accuracy:      80.5522
+---------------- Test ------------------
+Test Accuracy         44.7200
+Top 5 Test Accuracy           90.2900
+
+Epoch 21        Time: 2.2561676502227783
+-------------- Training ----------------
+Average Training Loss:        1.978849
+Average Training Accuracy:    31.4087
+Top 5 Training Accuracy:      81.3904
+---------------- Test ------------------
+Test Accuracy         42.3500
+Top 5 Test Accuracy           89.0800
+
+Epoch 22        Time: 2.156503438949585
+-------------- Training ----------------
+Average Training Loss:        1.961245
+Average Training Accuracy:    32.5317
+Top 5 Training Accuracy:      82.1777
+---------------- Test ------------------
+Test Accuracy         43.4700
+Top 5 Test Accuracy           89.6300
+
+Epoch 23        Time: 2.2610011100769043
+-------------- Training ----------------
+Average Training Loss:        1.864957
+Average Training Accuracy:    35.2580
+Top 5 Training Accuracy:      85.4675
+---------------- Test ------------------
+Test Accuracy         43.4600
+Top 5 Test Accuracy           90.8500
+
+Epoch 24        Time: 1.871072769165039
+-------------- Training ----------------
+Average Training Loss:        2.025666
+Average Training Accuracy:    30.8594
+Top 5 Training Accuracy:      81.7281
+---------------- Test ------------------
+Test Accuracy         43.7100
+Top 5 Test Accuracy           87.8700
+
+Epoch 25        Time: 2.3075835704803467
+-------------- Training ----------------
+Average Training Loss:        1.927212
+Average Training Accuracy:    33.8867
+Top 5 Training Accuracy:      82.9936
+---------------- Test ------------------
+Test Accuracy         44.6900
+Top 5 Test Accuracy           90.6400
+
+Epoch 26        Time: 2.06392502784729
+-------------- Training ----------------
+Average Training Loss:        2.007129
+Average Training Accuracy:    28.2817
+Top 5 Training Accuracy:      78.5360
+---------------- Test ------------------
+Test Accuracy         43.6900
+Top 5 Test Accuracy           89.0600
+
+Epoch 27        Time: 2.2655110359191895
+-------------- Training ----------------
+Average Training Loss:        1.918939
+Average Training Accuracy:    35.9741
+Top 5 Training Accuracy:      85.0810
+---------------- Test ------------------
+Test Accuracy         46.0900
+Top 5 Test Accuracy           90.8900
+
+Epoch 28        Time: 2.059372901916504
+-------------- Training ----------------
+Average Training Loss:        1.794914
+Average Training Accuracy:    38.0147
+Top 5 Training Accuracy:      86.4766
+---------------- Test ------------------
+Test Accuracy         46.3000
+Top 5 Test Accuracy           91.2100
+
+Epoch 29        Time: 2.2879161834716797
+-------------- Training ----------------
+Average Training Loss:        1.958479
+Average Training Accuracy:    33.7931
+Top 5 Training Accuracy:      82.8918
+---------------- Test ------------------
+Test Accuracy         45.5100
+Top 5 Test Accuracy           90.0200
+
+Epoch 30        Time: 2.144190549850464
+-------------- Training ----------------
+Average Training Loss:        1.902731
+Average Training Accuracy:    34.9874
+Top 5 Training Accuracy:      84.1451
+---------------- Test ------------------
+Test Accuracy         46.0300
+Top 5 Test Accuracy           91.0600
+
+Epoch 31        Time: 2.272019147872925
+-------------- Training ----------------
+Average Training Loss:        1.900692
+Average Training Accuracy:    36.9120
+Top 5 Training Accuracy:      85.5021
+---------------- Test ------------------
+Test Accuracy         47.0900
+Top 5 Test Accuracy           90.9500
+
+Epoch 32        Time: 2.08569073677063
+-------------- Training ----------------
+Average Training Loss:        1.933895
+Average Training Accuracy:    34.4604
+Top 5 Training Accuracy:      83.2397
+---------------- Test ------------------
+Test Accuracy         47.6800
+Top 5 Test Accuracy           91.2500
+
+Epoch 33        Time: 2.3385612964630127
+-------------- Training ----------------
+Average Training Loss:        1.973054
+Average Training Accuracy:    33.3659
+Top 5 Training Accuracy:      83.2031
+---------------- Test ------------------
+Test Accuracy         46.4100
+Top 5 Test Accuracy           90.5300
+
+Epoch 34        Time: 1.9782476425170898
+-------------- Training ----------------
+Average Training Loss:        1.854269
+Average Training Accuracy:    38.4725
+Top 5 Training Accuracy:      86.8490
+---------------- Test ------------------
+Test Accuracy         47.3800
+Top 5 Test Accuracy           91.0100
+
+Epoch 35        Time: 2.18319034576416
+-------------- Training ----------------
+Average Training Loss:        1.940453
+Average Training Accuracy:    36.1674
+Top 5 Training Accuracy:      84.9325
+---------------- Test ------------------
+Test Accuracy         47.0500
+Top 5 Test Accuracy           90.7200
+
+Epoch 36        Time: 2.0107367038726807
+-------------- Training ----------------
+Average Training Loss:        1.973550
+Average Training Accuracy:    32.5806
+Top 5 Training Accuracy:      82.0577
+---------------- Test ------------------
+Test Accuracy         48.6100
+Top 5 Test Accuracy           91.6800
+
+Epoch 37        Time: 2.0192956924438477
+-------------- Training ----------------
+Average Training Loss:        1.973041
+Average Training Accuracy:    31.2744
+Top 5 Training Accuracy:      80.8777
+---------------- Test ------------------
+Test Accuracy         46.8000
+Top 5 Test Accuracy           90.7300
+
+Epoch 38        Time: 2.1907215118408203
+-------------- Training ----------------
+Average Training Loss:        1.918831
+Average Training Accuracy:    36.0128
+Top 5 Training Accuracy:      84.9345
+---------------- Test ------------------
+Test Accuracy         48.3800
+Top 5 Test Accuracy           91.8800
+
+Epoch 39        Time: 2.199824571609497
+-------------- Training ----------------
+Average Training Loss:        1.841615
+Average Training Accuracy:    36.8184
+Top 5 Training Accuracy:      85.3617
+---------------- Test ------------------
+Test Accuracy         47.1400
+Top 5 Test Accuracy           91.4800
+
+Epoch 40        Time: 2.1659159660339355
+-------------- Training ----------------
+Average Training Loss:        2.017199
+Average Training Accuracy:    32.5114
+Top 5 Training Accuracy:      82.3995
+---------------- Test ------------------
+Test Accuracy         48.3500
+Top 5 Test Accuracy           90.8100
+
+Epoch 41        Time: 2.250514507293701
+-------------- Training ----------------
+Average Training Loss:        1.963571
+Average Training Accuracy:    35.2987
+Top 5 Training Accuracy:      84.4564
+---------------- Test ------------------
+Test Accuracy         48.1900
+Top 5 Test Accuracy           91.2500
+
+Epoch 42        Time: 2.0795459747314453
+-------------- Training ----------------
+Average Training Loss:        1.907604
+Average Training Accuracy:    34.6293
+Top 5 Training Accuracy:      83.4412
+---------------- Test ------------------
+Test Accuracy         47.8200
+Top 5 Test Accuracy           90.1100
+
+Epoch 43        Time: 2.15554141998291
+-------------- Training ----------------
+Average Training Loss:        1.813581
+Average Training Accuracy:    36.4421
+Top 5 Training Accuracy:      84.5968
+---------------- Test ------------------
+Test Accuracy         48.5800
+Top 5 Test Accuracy           91.5300
+
+Epoch 44        Time: 2.302194118499756
+-------------- Training ----------------
+Average Training Loss:        1.887068
+Average Training Accuracy:    37.1012
+Top 5 Training Accuracy:      85.4126
+---------------- Test ------------------
+Test Accuracy         48.8700
+Top 5 Test Accuracy           91.3900
+
+Epoch 45        Time: 2.132131338119507
+-------------- Training ----------------
+Average Training Loss:        2.005417
+Average Training Accuracy:    33.8298
+Top 5 Training Accuracy:      83.1970
+---------------- Test ------------------
+Test Accuracy         48.7400
+Top 5 Test Accuracy           91.8200
+
+Epoch 46        Time: 2.244520902633667
+-------------- Training ----------------
+Average Training Loss:        1.839806
+Average Training Accuracy:    39.9455
+Top 5 Training Accuracy:      87.3332
+---------------- Test ------------------
+Test Accuracy         49.6000
+Top 5 Test Accuracy           92.2700
+
+Epoch 47        Time: 2.0228939056396484
+-------------- Training ----------------
+Average Training Loss:        1.833765
+Average Training Accuracy:    39.2456
+Top 5 Training Accuracy:      86.6821
+---------------- Test ------------------
+Test Accuracy         48.4400
+Top 5 Test Accuracy           92.0800
+
+Epoch 48        Time: 2.2127163410186768
+-------------- Training ----------------
+Average Training Loss:        1.974574
+Average Training Accuracy:    36.4034
+Top 5 Training Accuracy:      85.3394
+---------------- Test ------------------
+Test Accuracy         49.5000
+Top 5 Test Accuracy           91.6300
+
+Epoch 49        Time: 1.9183931350708008
+-------------- Training ----------------
+Average Training Loss:        1.863392
+Average Training Accuracy:    36.2773
+Top 5 Training Accuracy:      83.6060
+---------------- Test ------------------
+Test Accuracy         50.7600
+Top 5 Test Accuracy           92.8100
+
+Epoch 50        Time: 2.104513168334961
+-------------- Training ----------------
+Average Training Loss:        1.950511
+Average Training Accuracy:    35.5937
+Top 5 Training Accuracy:      83.6995
+---------------- Test ------------------
+Test Accuracy         49.1400
+Top 5 Test Accuracy           91.4200
+
+Epoch 51        Time: 2.460756778717041
+-------------- Training ----------------
+Average Training Loss:        1.882028
+Average Training Accuracy:    36.5641
+Top 5 Training Accuracy:      84.4218
+---------------- Test ------------------
+Test Accuracy         51.4000
+Top 5 Test Accuracy           93.1000
+
+Epoch 52        Time: 2.112433671951294
+-------------- Training ----------------
+Average Training Loss:        1.812690
+Average Training Accuracy:    41.0767
+Top 5 Training Accuracy:      88.1165
+---------------- Test ------------------
+Test Accuracy         48.8100
+Top 5 Test Accuracy           91.9400
+
+Epoch 53        Time: 2.2621665000915527
+-------------- Training ----------------
+Average Training Loss:        1.841554
+Average Training Accuracy:    37.5244
+Top 5 Training Accuracy:      85.5082
+---------------- Test ------------------
+Test Accuracy         50.1900
+Top 5 Test Accuracy           92.1000
+
+Epoch 54        Time: 2.1954174041748047
+-------------- Training ----------------
+Average Training Loss:        1.836313
+Average Training Accuracy:    40.9668
+Top 5 Training Accuracy:      87.5773
+---------------- Test ------------------
+Test Accuracy         50.9700
+Top 5 Test Accuracy           92.6900
+
+Epoch 55        Time: 2.0879499912261963
+-------------- Training ----------------
+Average Training Loss:        1.877821
+Average Training Accuracy:    37.1033
+Top 5 Training Accuracy:      85.2478
+---------------- Test ------------------
+Test Accuracy         51.8500
+Top 5 Test Accuracy           93.3600
+
+Epoch 56        Time: 2.2060813903808594
+-------------- Training ----------------
+Average Training Loss:        1.832588
+Average Training Accuracy:    41.5894
+Top 5 Training Accuracy:      88.6882
+---------------- Test ------------------
+Test Accuracy         50.6100
+Top 5 Test Accuracy           92.5500
+
+Epoch 57        Time: 2.201634168624878
+-------------- Training ----------------
+Average Training Loss:        1.725888
+Average Training Accuracy:    42.6392
+Top 5 Training Accuracy:      88.7370
+---------------- Test ------------------
+Test Accuracy         52.1400
+Top 5 Test Accuracy           93.3200
+
+Epoch 58        Time: 2.082901954650879
+-------------- Training ----------------
+Average Training Loss:        1.877061
+Average Training Accuracy:    38.5640
+Top 5 Training Accuracy:      86.4339
+---------------- Test ------------------
+Test Accuracy         52.5800
+Top 5 Test Accuracy           93.4700
+
+Epoch 59        Time: 2.2247092723846436
+-------------- Training ----------------
+Average Training Loss:        1.872486
+Average Training Accuracy:    40.7959
+Top 5 Training Accuracy:      87.5285
+---------------- Test ------------------
+Test Accuracy         51.1500
+Top 5 Test Accuracy           92.9300
+
+Epoch 60        Time: 2.18850040435791
+-------------- Training ----------------
+Average Training Loss:        1.833837
+Average Training Accuracy:    40.5111
+Top 5 Training Accuracy:      87.7828
+---------------- Test ------------------
+Test Accuracy         52.2200
+Top 5 Test Accuracy           93.5400
+
+Epoch 61        Time: 2.227266788482666
+-------------- Training ----------------
+Average Training Loss:        1.845518
+Average Training Accuracy:    40.1021
+Top 5 Training Accuracy:      87.2030
+---------------- Test ------------------
+Test Accuracy         53.1100
+Top 5 Test Accuracy           93.5200
+
+Epoch 62        Time: 2.073399543762207
+-------------- Training ----------------
+Average Training Loss:        1.957248
+Average Training Accuracy:    38.1002
+Top 5 Training Accuracy:      85.8459
+---------------- Test ------------------
+Test Accuracy         51.5700
+Top 5 Test Accuracy           92.3700
+
+Epoch 63        Time: 2.3192708492279053
+-------------- Training ----------------
+Average Training Loss:        1.915314
+Average Training Accuracy:    39.6729
+Top 5 Training Accuracy:      86.9141
+---------------- Test ------------------
+Test Accuracy         52.7900
+Top 5 Test Accuracy           93.3000
+
+Epoch 64        Time: 2.2415080070495605
+-------------- Training ----------------
+Average Training Loss:        1.746769
+Average Training Accuracy:    43.9677
+Top 5 Training Accuracy:      89.2009
+---------------- Test ------------------
+Test Accuracy         52.6800
+Top 5 Test Accuracy           92.9700
+
+Epoch 65        Time: 2.274635076522827
+-------------- Training ----------------
+Average Training Loss:        1.859372
+Average Training Accuracy:    42.0776
+Top 5 Training Accuracy:      88.5946
+---------------- Test ------------------
+Test Accuracy         51.7700
+Top 5 Test Accuracy           92.6800
+
+Epoch 66        Time: 2.436007022857666
+-------------- Training ----------------
+Average Training Loss:        1.852808
+Average Training Accuracy:    38.1144
+Top 5 Training Accuracy:      85.1562
+---------------- Test ------------------
+Test Accuracy         51.8500
+Top 5 Test Accuracy           92.3600
+
+Epoch 67        Time: 2.4420676231384277
+-------------- Training ----------------
+Average Training Loss:        1.867860
+Average Training Accuracy:    38.0127
+Top 5 Training Accuracy:      85.9192
+---------------- Test ------------------
+Test Accuracy         53.2100
+Top 5 Test Accuracy           93.2300
+
+Epoch 68        Time: 2.4147937297821045
+-------------- Training ----------------
+Average Training Loss:        1.761372
+Average Training Accuracy:    43.8110
+Top 5 Training Accuracy:      89.2782
+---------------- Test ------------------
+Test Accuracy         53.1300
+Top 5 Test Accuracy           93.3000
+
+Epoch 69        Time: 2.2130353450775146
+-------------- Training ----------------
+Average Training Loss:        1.967005
+Average Training Accuracy:    35.6689
+Top 5 Training Accuracy:      84.0230
+---------------- Test ------------------
+Test Accuracy         52.3300
+Top 5 Test Accuracy           92.2100
+
+Epoch 70        Time: 2.209242105484009
+-------------- Training ----------------
+Average Training Loss:        1.958256
+Average Training Accuracy:    36.8815
+Top 5 Training Accuracy:      84.0027
+---------------- Test ------------------
+Test Accuracy         53.8200
+Top 5 Test Accuracy           93.2600
+
+Epoch 71        Time: 2.054417848587036
+-------------- Training ----------------
+Average Training Loss:        1.731896
+Average Training Accuracy:    43.1478
+Top 5 Training Accuracy:      88.4969
+---------------- Test ------------------
+Test Accuracy         53.6300
+Top 5 Test Accuracy           93.7900
+
+Epoch 72        Time: 2.2280282974243164
+-------------- Training ----------------
+Average Training Loss:        2.007901
+Average Training Accuracy:    33.6161
+Top 5 Training Accuracy:      82.2652
+---------------- Test ------------------
+Test Accuracy         52.1000
+Top 5 Test Accuracy           92.0300
+
+Epoch 73        Time: 2.0760810375213623
+-------------- Training ----------------
+Average Training Loss:        1.838151
+Average Training Accuracy:    42.2648
+Top 5 Training Accuracy:      87.4756
+---------------- Test ------------------
+Test Accuracy         53.5300
+Top 5 Test Accuracy           93.1600
+
+Epoch 74        Time: 2.1431984901428223
+-------------- Training ----------------
+Average Training Loss:        1.901132
+Average Training Accuracy:    39.2334
+Top 5 Training Accuracy:      86.0372
+---------------- Test ------------------
+Test Accuracy         53.3400
+Top 5 Test Accuracy           92.9200
+
+Epoch 75        Time: 2.263054370880127
+-------------- Training ----------------
+Average Training Loss:        1.764501
+Average Training Accuracy:    43.6727
+Top 5 Training Accuracy:      88.8448
+---------------- Test ------------------
+Test Accuracy         54.5200
+Top 5 Test Accuracy           93.7600
+
+Epoch 76        Time: 2.116204023361206
+-------------- Training ----------------
+Average Training Loss:        1.898158
+Average Training Accuracy:    38.0452
+Top 5 Training Accuracy:      85.1786
+---------------- Test ------------------
+Test Accuracy         53.8900
+Top 5 Test Accuracy           93.1100
+
+Epoch 77        Time: 2.1146466732025146
+-------------- Training ----------------
+Average Training Loss:        1.802971
+Average Training Accuracy:    43.1946
+Top 5 Training Accuracy:      88.2914
+---------------- Test ------------------
+Test Accuracy         54.4900
+Top 5 Test Accuracy           93.4100
+
+Epoch 78        Time: 2.176481008529663
+-------------- Training ----------------
+Average Training Loss:        1.892729
+Average Training Accuracy:    40.8712
+Top 5 Training Accuracy:      86.8307
+---------------- Test ------------------
+Test Accuracy         53.7900
+Top 5 Test Accuracy           93.3200
+
+Epoch 79        Time: 2.092874765396118
+-------------- Training ----------------
+Average Training Loss:        1.829360
+Average Training Accuracy:    40.8915
+Top 5 Training Accuracy:      87.1257
+---------------- Test ------------------
+Test Accuracy         53.9100
+Top 5 Test Accuracy           93.3600
+
+Epoch 80        Time: 2.2049686908721924
+-------------- Training ----------------
+Average Training Loss:        1.693187
+Average Training Accuracy:    46.0144
+Top 5 Training Accuracy:      90.3544
+---------------- Test ------------------
+Test Accuracy         54.4700
+Top 5 Test Accuracy           93.8200
+
+Epoch 81        Time: 2.2576990127563477
+-------------- Training ----------------
+Average Training Loss:        1.817688
+Average Training Accuracy:    40.0370
+Top 5 Training Accuracy:      86.2101
+---------------- Test ------------------
+Test Accuracy         54.7100
+Top 5 Test Accuracy           93.6100
+
+Epoch 82        Time: 2.0134902000427246
+-------------- Training ----------------
+Average Training Loss:        1.870472
+Average Training Accuracy:    35.5591
+Top 5 Training Accuracy:      83.3476
+---------------- Test ------------------
+Test Accuracy         55.5400
+Top 5 Test Accuracy           94.0800
+
+Epoch 83        Time: 2.2704403400421143
+-------------- Training ----------------
+Average Training Loss:        1.849959
+Average Training Accuracy:    43.0501
+Top 5 Training Accuracy:      88.3464
+---------------- Test ------------------
+Test Accuracy         54.6200
+Top 5 Test Accuracy           93.5200
+
+Epoch 84        Time: 1.8608829975128174
+-------------- Training ----------------
+Average Training Loss:        1.895670
+Average Training Accuracy:    39.6647
+Top 5 Training Accuracy:      85.9517
+---------------- Test ------------------
+Test Accuracy         55.1600
+Top 5 Test Accuracy           93.4700
+
+Epoch 85        Time: 2.1835696697235107
+-------------- Training ----------------
+Average Training Loss:        1.936624
+Average Training Accuracy:    34.1187
+Top 5 Training Accuracy:      82.2347
+---------------- Test ------------------
+Test Accuracy         53.4800
+Top 5 Test Accuracy           92.8500
+
+Epoch 86        Time: 1.8881134986877441
+-------------- Training ----------------
+Average Training Loss:        1.795667
+Average Training Accuracy:    45.0826
+Top 5 Training Accuracy:      88.9303
+---------------- Test ------------------
+Test Accuracy         56.1400
+Top 5 Test Accuracy           94.1200
+
+Epoch 87        Time: 2.1328389644622803
+-------------- Training ----------------
+Average Training Loss:        1.997145
+Average Training Accuracy:    34.4930
+Top 5 Training Accuracy:      83.2275
+---------------- Test ------------------
+Test Accuracy         53.6500
+Top 5 Test Accuracy           92.7200
+
+Epoch 88        Time: 1.9201595783233643
+-------------- Training ----------------
+Average Training Loss:        1.728044
+Average Training Accuracy:    45.2372
+Top 5 Training Accuracy:      89.5203
+---------------- Test ------------------
+Test Accuracy         56.3500
+Top 5 Test Accuracy           94.1200
+
+Epoch 89        Time: 2.236992835998535
+-------------- Training ----------------
+Average Training Loss:        1.561593
+Average Training Accuracy:    48.0855
+Top 5 Training Accuracy:      91.1316
+---------------- Test ------------------
+Test Accuracy         55.7800
+Top 5 Test Accuracy           94.3000
+
+Epoch 90        Time: 1.9423604011535645
+-------------- Training ----------------
+Average Training Loss:        1.588429
+Average Training Accuracy:    48.3459
+Top 5 Training Accuracy:      91.4327
+---------------- Test ------------------
+Test Accuracy         56.1500
+Top 5 Test Accuracy           94.1300
+
+Epoch 91        Time: 2.1330606937408447
+-------------- Training ----------------
+Average Training Loss:        1.906012
+Average Training Accuracy:    36.6923
+Top 5 Training Accuracy:      83.9966
+---------------- Test ------------------
+Test Accuracy         55.0400
+Top 5 Test Accuracy           93.3900
+
+Epoch 92        Time: 1.9925222396850586
+-------------- Training ----------------
+Average Training Loss:        1.838404
+Average Training Accuracy:    41.9189
+Top 5 Training Accuracy:      87.2905
+---------------- Test ------------------
+Test Accuracy         56.2500
+Top 5 Test Accuracy           93.8600
+
+Epoch 93        Time: 2.3442575931549072
+-------------- Training ----------------
+Average Training Loss:        1.739631
+Average Training Accuracy:    44.0531
+Top 5 Training Accuracy:      88.8143
+---------------- Test ------------------
+Test Accuracy         54.7400
+Top 5 Test Accuracy           93.4500
+
+Epoch 94        Time: 2.0030760765075684
+-------------- Training ----------------
+Average Training Loss:        1.687306
+Average Training Accuracy:    46.3481
+Top 5 Training Accuracy:      90.0553
+---------------- Test ------------------
+Test Accuracy         56.7100
+Top 5 Test Accuracy           94.0700
+
+Epoch 95        Time: 2.300562858581543
+-------------- Training ----------------
+Average Training Loss:        1.926757
+Average Training Accuracy:    40.1428
+Top 5 Training Accuracy:      86.7900
+---------------- Test ------------------
+Test Accuracy         55.6900
+Top 5 Test Accuracy           93.8300
+
+Epoch 96        Time: 2.0275542736053467
+-------------- Training ----------------
+Average Training Loss:        1.907305
+Average Training Accuracy:    41.7745
+Top 5 Training Accuracy:      87.4308
+---------------- Test ------------------
+Test Accuracy         55.5500
+Top 5 Test Accuracy           93.0900
+
+Epoch 97        Time: 2.124276638031006
+-------------- Training ----------------
+Average Training Loss:        1.919778
+Average Training Accuracy:    40.2283
+Top 5 Training Accuracy:      86.2122
+---------------- Test ------------------
+Test Accuracy         55.6600
+Top 5 Test Accuracy           93.6000
+
+Epoch 98        Time: 1.9364149570465088
+-------------- Training ----------------
+Average Training Loss:        1.949508
+Average Training Accuracy:    37.7421
+Top 5 Training Accuracy:      84.8145
+---------------- Test ------------------
+Test Accuracy         54.5800
+Top 5 Test Accuracy           93.1300
+
+Epoch 99        Time: 2.1877779960632324
+-------------- Training ----------------
+Average Training Loss:        1.890572
+Average Training Accuracy:    40.5294
+Top 5 Training Accuracy:      86.5723
+---------------- Test ------------------
+Test Accuracy         55.3400
+Top 5 Test Accuracy           93.4600
+
+No wandb entity provided, Continuing without wandb
+Loading ./beton/cifar100/train/train_32.beton
+Loading ./beton/cifar100/test/test_32.beton
+Epoch 1        Time: 35.78221821784973
+-------------- Training ----------------
+Average Training Loss:        4.582591
+Average Training Accuracy:    3.1860
+Top 5 Training Accuracy:      11.9486
+---------------- Test ------------------
+Test Accuracy         6.8200
+Top 5 Test Accuracy           21.6800
+
+Epoch 2        Time: 2.861826181411743
+-------------- Training ----------------
+Average Training Loss:        4.354033
+Average Training Accuracy:    6.5002
+Top 5 Training Accuracy:      20.6991
+---------------- Test ------------------
+Test Accuracy         8.9900
+Top 5 Test Accuracy           27.3300
+
+Epoch 3        Time: 2.8780486583709717
+-------------- Training ----------------
+Average Training Loss:        4.198356
+Average Training Accuracy:    7.8634
+Top 5 Training Accuracy:      24.5158
+---------------- Test ------------------
+Test Accuracy         11.7000
+Top 5 Test Accuracy           31.7800
+
+Epoch 4        Time: 2.9212639331817627
+-------------- Training ----------------
+Average Training Loss:        4.246830
+Average Training Accuracy:    7.7779
+Top 5 Training Accuracy:      23.9909
+---------------- Test ------------------
+Test Accuracy         11.6200
+Top 5 Test Accuracy           32.7500
+
+Epoch 5        Time: 2.502256393432617
+-------------- Training ----------------
+Average Training Loss:        4.241969
+Average Training Accuracy:    8.4513
+Top 5 Training Accuracy:      25.4659
+---------------- Test ------------------
+Test Accuracy         12.7100
+Top 5 Test Accuracy           36.1800
+
+Epoch 6        Time: 3.229795455932617
+-------------- Training ----------------
+Average Training Loss:        4.088858
+Average Training Accuracy:    10.2702
+Top 5 Training Accuracy:      29.5634
+---------------- Test ------------------
+Test Accuracy         13.0300
+Top 5 Test Accuracy           35.2100
+
+Epoch 7        Time: 3.483721971511841
+-------------- Training ----------------
+Average Training Loss:        4.106549
+Average Training Accuracy:    9.0759
+Top 5 Training Accuracy:      26.5523
+---------------- Test ------------------
+Test Accuracy         16.0900
+Top 5 Test Accuracy           40.2200
+
+Epoch 8        Time: 3.497570037841797
+-------------- Training ----------------
+Average Training Loss:        4.266144
+Average Training Accuracy:    8.8236
+Top 5 Training Accuracy:      26.4384
+---------------- Test ------------------
+Test Accuracy         14.2000
+Top 5 Test Accuracy           37.2400
+
+Epoch 9        Time: 3.1262741088867188
+-------------- Training ----------------
+Average Training Loss:        4.148511
+Average Training Accuracy:    11.0962
+Top 5 Training Accuracy:      30.2673
+---------------- Test ------------------
+Test Accuracy         16.1200
+Top 5 Test Accuracy           40.0300
+
+Epoch 10        Time: 2.852154016494751
+-------------- Training ----------------
+Average Training Loss:        3.998680
+Average Training Accuracy:    12.3291
+Top 5 Training Accuracy:      32.9956
+---------------- Test ------------------
+Test Accuracy         17.1900
+Top 5 Test Accuracy           41.0800
+
+Epoch 11        Time: 2.903407335281372
+-------------- Training ----------------
+Average Training Loss:        4.018101
+Average Training Accuracy:    12.6139
+Top 5 Training Accuracy:      33.9478
+---------------- Test ------------------
+Test Accuracy         16.6700
+Top 5 Test Accuracy           40.8600
+
+Epoch 12        Time: 2.84274959564209
+-------------- Training ----------------
+Average Training Loss:        4.077593
+Average Training Accuracy:    10.4919
+Top 5 Training Accuracy:      29.6712
+---------------- Test ------------------
+Test Accuracy         18.1300
+Top 5 Test Accuracy           43.9000
+
+Epoch 13        Time: 2.674454927444458
+-------------- Training ----------------
+Average Training Loss:        4.164763
+Average Training Accuracy:    9.8674
+Top 5 Training Accuracy:      27.7791
+---------------- Test ------------------
+Test Accuracy         17.7300
+Top 5 Test Accuracy           43.3800
+
+Epoch 14        Time: 2.822474718093872
+-------------- Training ----------------
+Average Training Loss:        3.864929
+Average Training Accuracy:    14.7563
+Top 5 Training Accuracy:      37.6363
+---------------- Test ------------------
+Test Accuracy         18.4900
+Top 5 Test Accuracy           44.1400
+
+Epoch 15        Time: 2.7214388847351074
+-------------- Training ----------------
+Average Training Loss:        4.054061
+Average Training Accuracy:    10.9802
+Top 5 Training Accuracy:      30.4301
+---------------- Test ------------------
+Test Accuracy         19.3700
+Top 5 Test Accuracy           43.5500
+
+Epoch 16        Time: 2.8513150215148926
+-------------- Training ----------------
+Average Training Loss:        4.199409
+Average Training Accuracy:    10.4777
+Top 5 Training Accuracy:      29.1260
+---------------- Test ------------------
+Test Accuracy         18.1600
+Top 5 Test Accuracy           44.1500
+
+Epoch 17        Time: 2.6387438774108887
+-------------- Training ----------------
+Average Training Loss:        3.842801
+Average Training Accuracy:    14.3473
+Top 5 Training Accuracy:      36.9385
+---------------- Test ------------------
+Test Accuracy         21.4800
+Top 5 Test Accuracy           47.7000
+
+Epoch 18        Time: 3.5618457794189453
+-------------- Training ----------------
+Average Training Loss:        4.130737
+Average Training Accuracy:    11.8469
+Top 5 Training Accuracy:      31.9275
+---------------- Test ------------------
+Test Accuracy         19.9700
+Top 5 Test Accuracy           45.4000
+
+Epoch 19        Time: 3.632711887359619
+-------------- Training ----------------
+Average Training Loss:        3.756787
+Average Training Accuracy:    15.8061
+Top 5 Training Accuracy:      39.2904
+---------------- Test ------------------
+Test Accuracy         20.9800
+Top 5 Test Accuracy           47.8400
+
+Epoch 20        Time: 3.8222780227661133
+-------------- Training ----------------
+Average Training Loss:        4.201554
+Average Training Accuracy:    9.5154
+Top 5 Training Accuracy:      26.8351
+---------------- Test ------------------
+Test Accuracy         19.7700
+Top 5 Test Accuracy           45.5000
+
+Epoch 21        Time: 2.718935251235962
+-------------- Training ----------------
+Average Training Loss:        3.700495
+Average Training Accuracy:    17.0756
+Top 5 Training Accuracy:      41.6565
+---------------- Test ------------------
+Test Accuracy         21.5100
+Top 5 Test Accuracy           48.6400
+
+Epoch 22        Time: 2.546753406524658
+-------------- Training ----------------
+Average Training Loss:        4.008884
+Average Training Accuracy:    14.2721
+Top 5 Training Accuracy:      36.4624
+---------------- Test ------------------
+Test Accuracy         20.8900
+Top 5 Test Accuracy           47.5400
+
+Epoch 23        Time: 2.6484389305114746
+-------------- Training ----------------
+Average Training Loss:        3.976308
+Average Training Accuracy:    14.6912
+Top 5 Training Accuracy:      37.2233
+---------------- Test ------------------
+Test Accuracy         21.1000
+Top 5 Test Accuracy           47.4200
+
+Epoch 24        Time: 2.3878538608551025
+-------------- Training ----------------
+Average Training Loss:        3.920358
+Average Training Accuracy:    15.6372
+Top 5 Training Accuracy:      37.9822
+---------------- Test ------------------
+Test Accuracy         22.5800
+Top 5 Test Accuracy           50.2200
+
+Epoch 25        Time: 2.5922293663024902
+-------------- Training ----------------
+Average Training Loss:        3.876330
+Average Training Accuracy:    16.2821
+Top 5 Training Accuracy:      39.5223
+---------------- Test ------------------
+Test Accuracy         22.7100
+Top 5 Test Accuracy           50.0300
+
+Epoch 26        Time: 2.8172900676727295
+-------------- Training ----------------
+Average Training Loss:        3.514708
+Average Training Accuracy:    19.1874
+Top 5 Training Accuracy:      44.4661
+---------------- Test ------------------
+Test Accuracy         23.2000
+Top 5 Test Accuracy           51.2800
+
+Epoch 27        Time: 2.670403242111206
+-------------- Training ----------------
+Average Training Loss:        3.633469
+Average Training Accuracy:    18.7012
+Top 5 Training Accuracy:      43.5059
+---------------- Test ------------------
+Test Accuracy         23.5600
+Top 5 Test Accuracy           51.3300
+
+Epoch 28        Time: 2.8959197998046875
+-------------- Training ----------------
+Average Training Loss:        4.067830
+Average Training Accuracy:    11.7635
+Top 5 Training Accuracy:      31.4677
+---------------- Test ------------------
+Test Accuracy         22.8900
+Top 5 Test Accuracy           49.6400
+
+Epoch 29        Time: 2.674297571182251
+-------------- Training ----------------
+Average Training Loss:        3.942704
+Average Training Accuracy:    13.8062
+Top 5 Training Accuracy:      35.3434
+---------------- Test ------------------
+Test Accuracy         22.8300
+Top 5 Test Accuracy           50.9100
+
+Epoch 30        Time: 2.971860408782959
+-------------- Training ----------------
+Average Training Loss:        3.741330
+Average Training Accuracy:    18.1051
+Top 5 Training Accuracy:      42.5232
+---------------- Test ------------------
+Test Accuracy         24.2900
+Top 5 Test Accuracy           52.1000
+
+Epoch 31        Time: 4.255349397659302
+-------------- Training ----------------
+Average Training Loss:        3.807949
+Average Training Accuracy:    17.6697
+Top 5 Training Accuracy:      42.1549
+---------------- Test ------------------
+Test Accuracy         24.1900
+Top 5 Test Accuracy           51.3400
+
+Epoch 32        Time: 4.2280402183532715
+-------------- Training ----------------
+Average Training Loss:        3.891060
+Average Training Accuracy:    18.0013
+Top 5 Training Accuracy:      42.3320
+---------------- Test ------------------
+Test Accuracy         23.9300
+Top 5 Test Accuracy           51.8300
+
+Epoch 33        Time: 3.589454174041748
+-------------- Training ----------------
+Average Training Loss:        3.483033
+Average Training Accuracy:    20.6767
+Top 5 Training Accuracy:      46.8669
+---------------- Test ------------------
+Test Accuracy         25.4800
+Top 5 Test Accuracy           53.4900
+
+Epoch 34        Time: 2.9660191535949707
+-------------- Training ----------------
+Average Training Loss:        3.589084
+Average Training Accuracy:    18.7561
+Top 5 Training Accuracy:      43.8090
+---------------- Test ------------------
+Test Accuracy         25.2400
+Top 5 Test Accuracy           52.3600
+
+Epoch 35        Time: 3.1488142013549805
+-------------- Training ----------------
+Average Training Loss:        3.790933
+Average Training Accuracy:    19.1833
+Top 5 Training Accuracy:      44.2586
+---------------- Test ------------------
+Test Accuracy         25.8100
+Top 5 Test Accuracy           53.6400
+
+Epoch 36        Time: 2.902857542037964
+-------------- Training ----------------
+Average Training Loss:        3.577084
+Average Training Accuracy:    21.1914
+Top 5 Training Accuracy:      47.1497
+---------------- Test ------------------
+Test Accuracy         26.2700
+Top 5 Test Accuracy           53.4500
+
+Epoch 37        Time: 3.201476812362671
+-------------- Training ----------------
+Average Training Loss:        3.689849
+Average Training Accuracy:    20.4183
+Top 5 Training Accuracy:      46.0185
+---------------- Test ------------------
+Test Accuracy         25.3100
+Top 5 Test Accuracy           52.4600
+
+Epoch 38        Time: 2.836172342300415
+-------------- Training ----------------
+Average Training Loss:        3.670018
+Average Training Accuracy:    20.5750
+Top 5 Training Accuracy:      46.2382
+---------------- Test ------------------
+Test Accuracy         25.6500
+Top 5 Test Accuracy           53.3100
+
+Epoch 39        Time: 2.975092887878418
+-------------- Training ----------------
+Average Training Loss:        3.924640
+Average Training Accuracy:    16.4347
+Top 5 Training Accuracy:      39.7156
+---------------- Test ------------------
+Test Accuracy         26.1200
+Top 5 Test Accuracy           53.7700
+
+Epoch 40        Time: 2.911503553390503
+-------------- Training ----------------
+Average Training Loss:        3.998436
+Average Training Accuracy:    15.2222
+Top 5 Training Accuracy:      36.8001
+---------------- Test ------------------
+Test Accuracy         25.6600
+Top 5 Test Accuracy           52.9400
+
+Epoch 41        Time: 3.4216153621673584
+-------------- Training ----------------
+Average Training Loss:        3.876474
+Average Training Accuracy:    16.4388
+Top 5 Training Accuracy:      39.2375
+---------------- Test ------------------
+Test Accuracy         26.8800
+Top 5 Test Accuracy           54.2400
+
+Epoch 42        Time: 3.882516622543335
+-------------- Training ----------------
+Average Training Loss:        3.923684
+Average Training Accuracy:    18.0074
+Top 5 Training Accuracy:      41.8498
+---------------- Test ------------------
+Test Accuracy         25.9800
+Top 5 Test Accuracy           53.4600
+
+Epoch 43        Time: 3.8430299758911133
+-------------- Training ----------------
+Average Training Loss:        3.546732
+Average Training Accuracy:    22.1029
+Top 5 Training Accuracy:      48.3968
+---------------- Test ------------------
+Test Accuracy         28.0100
+Top 5 Test Accuracy           55.9100
+
+Epoch 44        Time: 3.5258491039276123
+-------------- Training ----------------
+Average Training Loss:        3.940179
+Average Training Accuracy:    17.2546
+Top 5 Training Accuracy:      40.5090
+---------------- Test ------------------
+Test Accuracy         26.4700
+Top 5 Test Accuracy           54.3800
+
+Epoch 45        Time: 2.9377286434173584
+-------------- Training ----------------
+Average Training Loss:        3.991553
+Average Training Accuracy:    15.1632
+Top 5 Training Accuracy:      37.2070
+---------------- Test ------------------
+Test Accuracy         26.3400
+Top 5 Test Accuracy           54.0900
+
+Epoch 46        Time: 3.1526358127593994
+-------------- Training ----------------
+Average Training Loss:        3.714665
+Average Training Accuracy:    20.2128
+Top 5 Training Accuracy:      45.1904
+---------------- Test ------------------
+Test Accuracy         28.6800
+Top 5 Test Accuracy           56.6600
+
+Epoch 47        Time: 3.00348162651062
+-------------- Training ----------------
+Average Training Loss:        3.946509
+Average Training Accuracy:    17.1977
+Top 5 Training Accuracy:      40.3564
+---------------- Test ------------------
+Test Accuracy         26.4900
+Top 5 Test Accuracy           54.5200
+
+Epoch 48        Time: 3.1039059162139893
+-------------- Training ----------------
+Average Training Loss:        3.754786
+Average Training Accuracy:    17.8507
+Top 5 Training Accuracy:      41.0563
+---------------- Test ------------------
+Test Accuracy         27.7200
+Top 5 Test Accuracy           55.6900
+
+Epoch 49        Time: 2.8296256065368652
+-------------- Training ----------------
+Average Training Loss:        3.565680
+Average Training Accuracy:    19.5780
+Top 5 Training Accuracy:      43.8090
+---------------- Test ------------------
+Test Accuracy         28.3800
+Top 5 Test Accuracy           57.1900
+
+Epoch 50        Time: 2.9849560260772705
+-------------- Training ----------------
+Average Training Loss:        3.926887
+Average Training Accuracy:    16.3005
+Top 5 Training Accuracy:      38.7634
+---------------- Test ------------------
+Test Accuracy         28.1800
+Top 5 Test Accuracy           56.1400
+
+Epoch 51        Time: 3.134014129638672
+-------------- Training ----------------
+Average Training Loss:        3.896414
+Average Training Accuracy:    17.8263
+Top 5 Training Accuracy:      40.9465
+---------------- Test ------------------
+Test Accuracy         28.0600
+Top 5 Test Accuracy           55.8000
+
+Epoch 52        Time: 3.117166519165039
+-------------- Training ----------------
+Average Training Loss:        3.562191
+Average Training Accuracy:    22.9675
+Top 5 Training Accuracy:      49.2391
+---------------- Test ------------------
+Test Accuracy         28.8900
+Top 5 Test Accuracy           57.1300
+
+Epoch 53        Time: 4.036166667938232
+-------------- Training ----------------
+Average Training Loss:        3.587680
+Average Training Accuracy:    21.5902
+Top 5 Training Accuracy:      46.6288
+---------------- Test ------------------
+Test Accuracy         29.6500
+Top 5 Test Accuracy           57.7200
+
+Epoch 54        Time: 4.14583945274353
+-------------- Training ----------------
+Average Training Loss:        3.621331
+Average Training Accuracy:    21.4091
+Top 5 Training Accuracy:      46.9645
+---------------- Test ------------------
+Test Accuracy         30.1900
+Top 5 Test Accuracy           58.4400
+
+Epoch 55        Time: 3.6399052143096924
+-------------- Training ----------------
+Average Training Loss:        3.561026
+Average Training Accuracy:    24.2635
+Top 5 Training Accuracy:      51.1556
+---------------- Test ------------------
+Test Accuracy         29.2400
+Top 5 Test Accuracy           57.5400
+
+Epoch 56        Time: 2.933582305908203
+-------------- Training ----------------
+Average Training Loss:        3.477553
+Average Training Accuracy:    24.4161
+Top 5 Training Accuracy:      51.2248
+---------------- Test ------------------
+Test Accuracy         29.5000
+Top 5 Test Accuracy           57.3000
+
+Epoch 57        Time: 2.8417041301727295
+-------------- Training ----------------
+Average Training Loss:        3.321942
+Average Training Accuracy:    25.9949
+Top 5 Training Accuracy:      53.5990
+---------------- Test ------------------
+Test Accuracy         30.2100
+Top 5 Test Accuracy           58.3500
+
+Epoch 58        Time: 2.8486011028289795
+-------------- Training ----------------
+Average Training Loss:        3.154972
+Average Training Accuracy:    26.9836
+Top 5 Training Accuracy:      54.7058
+---------------- Test ------------------
+Test Accuracy         30.6900
+Top 5 Test Accuracy           59.5100
+
+Epoch 59        Time: 2.9232499599456787
+-------------- Training ----------------
+Average Training Loss:        3.888845
+Average Training Accuracy:    19.8486
+Top 5 Training Accuracy:      44.9402
+---------------- Test ------------------
+Test Accuracy         29.0900
+Top 5 Test Accuracy           56.9200
+
+Epoch 60        Time: 2.9176926612854004
+-------------- Training ----------------
+Average Training Loss:        3.772203
+Average Training Accuracy:    20.6278
+Top 5 Training Accuracy:      45.6746
+---------------- Test ------------------
+Test Accuracy         30.3900
+Top 5 Test Accuracy           58.2500
+
+Epoch 61        Time: 2.821153163909912
+-------------- Training ----------------
+Average Training Loss:        3.664277
+Average Training Accuracy:    22.8455
+Top 5 Training Accuracy:      48.8017
+---------------- Test ------------------
+Test Accuracy         30.2200
+Top 5 Test Accuracy           58.2400
+
+Epoch 62        Time: 2.9650447368621826
+-------------- Training ----------------
+Average Training Loss:        3.773804
+Average Training Accuracy:    17.2343
+Top 5 Training Accuracy:      39.7339
+---------------- Test ------------------
+Test Accuracy         29.9500
+Top 5 Test Accuracy           58.1600
+
+Epoch 63        Time: 2.944216012954712
+-------------- Training ----------------
+Average Training Loss:        3.301105
+Average Training Accuracy:    26.8331
+Top 5 Training Accuracy:      54.7038
+---------------- Test ------------------
+Test Accuracy         32.2600
+Top 5 Test Accuracy           60.1600
+
+Epoch 64        Time: 2.802121639251709
+-------------- Training ----------------
+Average Training Loss:        3.748592
+Average Training Accuracy:    22.2087
+Top 5 Training Accuracy:      47.5342
+---------------- Test ------------------
+Test Accuracy         30.4300
+Top 5 Test Accuracy           58.3700
+
+Epoch 65        Time: 3.6579787731170654
+-------------- Training ----------------
+Average Training Loss:        3.704175
+Average Training Accuracy:    21.1060
+Top 5 Training Accuracy:      46.2606
+---------------- Test ------------------
+Test Accuracy         32.2100
+Top 5 Test Accuracy           60.2300
+
+Epoch 66        Time: 3.767867088317871
+-------------- Training ----------------
+Average Training Loss:        3.814481
+Average Training Accuracy:    19.6533
+Top 5 Training Accuracy:      44.1060
+---------------- Test ------------------
+Test Accuracy         30.5600
+Top 5 Test Accuracy           58.6500
+
+Epoch 67        Time: 3.332172155380249
+-------------- Training ----------------
+Average Training Loss:        3.913257
+Average Training Accuracy:    17.3991
+Top 5 Training Accuracy:      40.3707
+---------------- Test ------------------
+Test Accuracy         30.3100
+Top 5 Test Accuracy           58.8900
+
+Epoch 68        Time: 2.647392511367798
+-------------- Training ----------------
+Average Training Loss:        3.472305
+Average Training Accuracy:    26.4160
+Top 5 Training Accuracy:      53.8350
+---------------- Test ------------------
+Test Accuracy         31.9100
+Top 5 Test Accuracy           60.2000
+
+Epoch 69        Time: 2.8840856552124023
+-------------- Training ----------------
+Average Training Loss:        3.264597
+Average Training Accuracy:    28.6194
+Top 5 Training Accuracy:      56.5267
+---------------- Test ------------------
+Test Accuracy         32.8500
+Top 5 Test Accuracy           61.0500
+
+Epoch 70        Time: 2.6778438091278076
+-------------- Training ----------------
+Average Training Loss:        3.386669
+Average Training Accuracy:    25.7975
+Top 5 Training Accuracy:      52.6408
+---------------- Test ------------------
+Test Accuracy         31.2000
+Top 5 Test Accuracy           59.1400
+
+Epoch 71        Time: 2.676011800765991
+-------------- Training ----------------
+Average Training Loss:        3.146082
+Average Training Accuracy:    29.2094
+Top 5 Training Accuracy:      57.4443
+---------------- Test ------------------
+Test Accuracy         32.5200
+Top 5 Test Accuracy           60.7100
+
+Epoch 72        Time: 2.821108341217041
+-------------- Training ----------------
+Average Training Loss:        3.360751
+Average Training Accuracy:    26.9714
+Top 5 Training Accuracy:      53.8676
+---------------- Test ------------------
+Test Accuracy         31.7100
+Top 5 Test Accuracy           59.9300
+
+Epoch 73        Time: 2.6548712253570557
+-------------- Training ----------------
+Average Training Loss:        3.204419
+Average Training Accuracy:    30.1005
+Top 5 Training Accuracy:      57.8471
+---------------- Test ------------------
+Test Accuracy         33.1700
+Top 5 Test Accuracy           61.6900
+
+Epoch 74        Time: 2.822794198989868
+-------------- Training ----------------
+Average Training Loss:        3.602780
+Average Training Accuracy:    21.5637
+Top 5 Training Accuracy:      46.7957
+---------------- Test ------------------
+Test Accuracy         31.7900
+Top 5 Test Accuracy           60.0400
+
+Epoch 75        Time: 2.8003382682800293
+-------------- Training ----------------
+Average Training Loss:        3.377024
+Average Training Accuracy:    23.7732
+Top 5 Training Accuracy:      49.4771
+---------------- Test ------------------
+Test Accuracy         33.5800
+Top 5 Test Accuracy           61.9500
+
+Epoch 76        Time: 2.7279577255249023
+-------------- Training ----------------
+Average Training Loss:        3.556302
+Average Training Accuracy:    23.5128
+Top 5 Training Accuracy:      49.1659
+---------------- Test ------------------
+Test Accuracy         32.5700
+Top 5 Test Accuracy           60.2200
+
+Epoch 77        Time: 3.5994083881378174
+-------------- Training ----------------
+Average Training Loss:        3.625588
+Average Training Accuracy:    21.2687
+Top 5 Training Accuracy:      46.2382
+---------------- Test ------------------
+Test Accuracy         32.3400
+Top 5 Test Accuracy           60.6900
+
+Epoch 78        Time: 3.5057878494262695
+-------------- Training ----------------
+Average Training Loss:        3.412792
+Average Training Accuracy:    28.5482
+Top 5 Training Accuracy:      56.5877
+---------------- Test ------------------
+Test Accuracy         33.7700
+Top 5 Test Accuracy           61.8400
+
+Epoch 79        Time: 3.0973892211914062
+-------------- Training ----------------
+Average Training Loss:        3.204146
+Average Training Accuracy:    30.9469
+Top 5 Training Accuracy:      59.2204
+---------------- Test ------------------
+Test Accuracy         33.6900
+Top 5 Test Accuracy           61.7800
+
+Epoch 80        Time: 2.660830020904541
+-------------- Training ----------------
+Average Training Loss:        3.573411
+Average Training Accuracy:    24.1679
+Top 5 Training Accuracy:      50.0142
+---------------- Test ------------------
+Test Accuracy         33.4700
+Top 5 Test Accuracy           61.2700
+
+Epoch 81        Time: 2.7996394634246826
+-------------- Training ----------------
+Average Training Loss:        3.364971
+Average Training Accuracy:    27.2603
+Top 5 Training Accuracy:      54.3599
+---------------- Test ------------------
+Test Accuracy         33.2500
+Top 5 Test Accuracy           61.4000
+
+Epoch 82        Time: 2.919039011001587
+-------------- Training ----------------
+Average Training Loss:        3.269119
+Average Training Accuracy:    28.5461
+Top 5 Training Accuracy:      56.3049
+---------------- Test ------------------
+Test Accuracy         33.7000
+Top 5 Test Accuracy           61.7400
+
+Epoch 83        Time: 2.579502820968628
+-------------- Training ----------------
+Average Training Loss:        3.846020
+Average Training Accuracy:    20.4366
+Top 5 Training Accuracy:      44.9687
+---------------- Test ------------------
+Test Accuracy         32.4600
+Top 5 Test Accuracy           60.6200
+
+Epoch 84        Time: 3.0488460063934326
+-------------- Training ----------------
+Average Training Loss:        3.379002
+Average Training Accuracy:    26.7070
+Top 5 Training Accuracy:      53.8676
+---------------- Test ------------------
+Test Accuracy         34.0300
+Top 5 Test Accuracy           61.9900
+
+Epoch 85        Time: 3.046555757522583
+-------------- Training ----------------
+Average Training Loss:        3.769762
+Average Training Accuracy:    22.2148
+Top 5 Training Accuracy:      47.3307
+---------------- Test ------------------
+Test Accuracy         32.6400
+Top 5 Test Accuracy           61.1600
+
+Epoch 86        Time: 3.0667495727539062
+-------------- Training ----------------
+Average Training Loss:        3.219023
+Average Training Accuracy:    31.5694
+Top 5 Training Accuracy:      59.8857
+---------------- Test ------------------
+Test Accuracy         34.2600
+Top 5 Test Accuracy           62.7500
+
+Epoch 87        Time: 3.0557005405426025
+-------------- Training ----------------
+Average Training Loss:        2.944935
+Average Training Accuracy:    33.0261
+Top 5 Training Accuracy:      61.8449
+---------------- Test ------------------
+Test Accuracy         33.9000
+Top 5 Test Accuracy           62.8300
+
+Epoch 88        Time: 3.8105432987213135
+-------------- Training ----------------
+Average Training Loss:        2.953794
+Average Training Accuracy:    32.9285
+Top 5 Training Accuracy:      61.6414
+---------------- Test ------------------
+Test Accuracy         34.5800
+Top 5 Test Accuracy           63.4100
+
+Epoch 89        Time: 4.006593942642212
+-------------- Training ----------------
+Average Training Loss:        3.560717
+Average Training Accuracy:    22.2778
+Top 5 Training Accuracy:      47.3551
+---------------- Test ------------------
+Test Accuracy         34.1900
+Top 5 Test Accuracy           62.5700
+
+Epoch 90        Time: 4.175891876220703
+-------------- Training ----------------
+Average Training Loss:        3.289143
+Average Training Accuracy:    27.0793
+Top 5 Training Accuracy:      53.3101
+---------------- Test ------------------
+Test Accuracy         34.8400
+Top 5 Test Accuracy           63.2300
+
+Epoch 91        Time: 3.070427894592285
+-------------- Training ----------------
+Average Training Loss:        3.902923
+Average Training Accuracy:    18.0379
+Top 5 Training Accuracy:      41.7603
+---------------- Test ------------------
+Test Accuracy         33.3100
+Top 5 Test Accuracy           61.6400
+
+Epoch 92        Time: 2.9937610626220703
+-------------- Training ----------------
+Average Training Loss:        3.757273
+Average Training Accuracy:    23.6959
+Top 5 Training Accuracy:      49.4507
+---------------- Test ------------------
+Test Accuracy         33.4700
+Top 5 Test Accuracy           61.8900
+
+Epoch 93        Time: 2.9458606243133545
+-------------- Training ----------------
+Average Training Loss:        2.851680
+Average Training Accuracy:    34.7941
+Top 5 Training Accuracy:      63.1816
+---------------- Test ------------------
+Test Accuracy         35.3500
+Top 5 Test Accuracy           63.8400
+
+Epoch 94        Time: 3.1214826107025146
+-------------- Training ----------------
+Average Training Loss:        3.588877
+Average Training Accuracy:    23.6979
+Top 5 Training Accuracy:      48.6511
+---------------- Test ------------------
+Test Accuracy         34.9900
+Top 5 Test Accuracy           63.7400
+
+Epoch 95        Time: 3.0408480167388916
+-------------- Training ----------------
+Average Training Loss:        3.333275
+Average Training Accuracy:    29.6000
+Top 5 Training Accuracy:      57.4178
+---------------- Test ------------------
+Test Accuracy         34.5700
+Top 5 Test Accuracy           62.7000
+
+Epoch 96        Time: 3.058534860610962
+-------------- Training ----------------
+Average Training Loss:        3.369997
+Average Training Accuracy:    29.8889
+Top 5 Training Accuracy:      57.1777
+---------------- Test ------------------
+Test Accuracy         34.2300
+Top 5 Test Accuracy           62.2700
+
+Epoch 97        Time: 2.910689115524292
+-------------- Training ----------------
+Average Training Loss:        3.373626
+Average Training Accuracy:    28.4078
+Top 5 Training Accuracy:      55.1554
+---------------- Test ------------------
+Test Accuracy         35.9300
+Top 5 Test Accuracy           64.4800
+
+Epoch 98        Time: 2.8433032035827637
+-------------- Training ----------------
+Average Training Loss:        3.482924
+Average Training Accuracy:    26.2960
+Top 5 Training Accuracy:      52.1932
+---------------- Test ------------------
+Test Accuracy         35.4700
+Top 5 Test Accuracy           64.2500
+
+Epoch 99        Time: 3.9316675662994385
+-------------- Training ----------------
+Average Training Loss:        3.518014
+Average Training Accuracy:    27.4434
+Top 5 Training Accuracy:      54.1158
+---------------- Test ------------------
+Test Accuracy         35.0400
+Top 5 Test Accuracy           63.4200
+
+No wandb entity provided, Continuing without wandb
+Loading ./beton/tiny-imagenet-200/train/train_32.beton
+No wandb entity provided, Continuing without wandb
+Loading ./beton/cifar10/train/train_32.beton
+Loading ./beton/cifar10/val/val_32.beton
+Epoch 1        Time: 24.88991641998291
+-------------- Training ----------------
+Average Training Loss:        2.906855
+Average Training Accuracy:    15.0431
+Top 5 Training Accuracy:      57.8410
+---------------- Test ------------------
+Test Accuracy         19.6500
+Top 5 Test Accuracy           58.4300
+
+Epoch 2        Time: 3.200136184692383
+-------------- Training ----------------
+Average Training Loss:        2.657634
+Average Training Accuracy:    19.5943
+Top 5 Training Accuracy:      61.9812
+---------------- Test ------------------
+Test Accuracy         23.8100
+Top 5 Test Accuracy           69.7000
+
+Epoch 3        Time: 3.128575325012207
+-------------- Training ----------------
+Average Training Loss:        2.513920
+Average Training Accuracy:    19.1630
+Top 5 Training Accuracy:      64.1154
+---------------- Test ------------------
+Test Accuracy         27.6300
+Top 5 Test Accuracy           72.1700
+
+Epoch 4        Time: 3.053696632385254
+-------------- Training ----------------
+Average Training Loss:        2.308049
+Average Training Accuracy:    22.9268
+Top 5 Training Accuracy:      68.5588
+---------------- Test ------------------
+Test Accuracy         31.3500
+Top 5 Test Accuracy           77.3900
+
+Epoch 5        Time: 3.014930009841919
+-------------- Training ----------------
+Average Training Loss:        2.230395
+Average Training Accuracy:    23.1201
+Top 5 Training Accuracy:      70.9208
+---------------- Test ------------------
+Test Accuracy         27.5600
+Top 5 Test Accuracy           82.0800
+
+Epoch 6        Time: 3.221991777420044
+-------------- Training ----------------
+Average Training Loss:        2.291116
+Average Training Accuracy:    19.7042
+Top 5 Training Accuracy:      66.6341
+---------------- Test ------------------
+Test Accuracy         30.3400
+Top 5 Test Accuracy           79.4100
+
+Epoch 7        Time: 2.9986133575439453
+-------------- Training ----------------
+Average Training Loss:        2.100742
+Average Training Accuracy:    26.0640
+Top 5 Training Accuracy:      76.0763
+---------------- Test ------------------
+Test Accuracy         35.5100
+Top 5 Test Accuracy           80.0800
+
+Epoch 8        Time: 3.103710889816284
+-------------- Training ----------------
+Average Training Loss:        2.225936
+Average Training Accuracy:    23.5982
+Top 5 Training Accuracy:      71.8628
+---------------- Test ------------------
+Test Accuracy         30.9200
+Top 5 Test Accuracy           81.5200
+
+Epoch 9        Time: 3.2546889781951904
+-------------- Training ----------------
+Average Training Loss:        2.165882
+Average Training Accuracy:    26.1882
+Top 5 Training Accuracy:      75.9440
+---------------- Test ------------------
+Test Accuracy         33.8600
+Top 5 Test Accuracy           82.1500
+
+Epoch 10        Time: 3.6759164333343506
+-------------- Training ----------------
+Average Training Loss:        2.172221
+Average Training Accuracy:    24.3388
+Top 5 Training Accuracy:      74.2208
+---------------- Test ------------------
+Test Accuracy         35.3200
+Top 5 Test Accuracy           82.3700
+
+Epoch 11        Time: 3.9484763145446777
+-------------- Training ----------------
+Average Training Loss:        2.134710
+Average Training Accuracy:    26.3367
+Top 5 Training Accuracy:      75.1973
+---------------- Test ------------------
+Test Accuracy         37.0100
+Top 5 Test Accuracy           86.6700
+
+Epoch 12        Time: 3.6998748779296875
+-------------- Training ----------------
+Average Training Loss:        2.122504
+Average Training Accuracy:    27.3051
+Top 5 Training Accuracy:      77.8219
+---------------- Test ------------------
+Test Accuracy         39.2300
+Top 5 Test Accuracy           86.9700
+
+Epoch 13        Time: 3.0681302547454834
+-------------- Training ----------------
+Average Training Loss:        2.164378
+Average Training Accuracy:    25.9481
+Top 5 Training Accuracy:      76.2024
+---------------- Test ------------------
+Test Accuracy         38.6800
+Top 5 Test Accuracy           85.4000
+
+Epoch 14        Time: 3.029026746749878
+-------------- Training ----------------
+Average Training Loss:        2.141895
+Average Training Accuracy:    28.0863
+Top 5 Training Accuracy:      77.9500
+---------------- Test ------------------
+Test Accuracy         37.8500
+Top 5 Test Accuracy           85.0800
+
+Epoch 15        Time: 3.1069142818450928
+-------------- Training ----------------
+Average Training Loss:        2.112949
+Average Training Accuracy:    28.9327
+Top 5 Training Accuracy:      79.0853
+---------------- Test ------------------
+Test Accuracy         41.7400
+Top 5 Test Accuracy           89.0300
+
+Epoch 16        Time: 3.226175308227539
+-------------- Training ----------------
+Average Training Loss:        2.064375
+Average Training Accuracy:    31.3070
+Top 5 Training Accuracy:      81.2948
+---------------- Test ------------------
+Test Accuracy         42.7600
+Top 5 Test Accuracy           87.3100
+
+Epoch 17        Time: 3.304792642593384
+-------------- Training ----------------
+Average Training Loss:        2.040369
+Average Training Accuracy:    33.2011
+Top 5 Training Accuracy:      83.1258
+---------------- Test ------------------
+Test Accuracy         39.6400
+Top 5 Test Accuracy           88.2500
+
+Epoch 18        Time: 2.7431325912475586
+-------------- Training ----------------
+Average Training Loss:        2.044443
+Average Training Accuracy:    32.5602
+Top 5 Training Accuracy:      82.8939
+---------------- Test ------------------
+Test Accuracy         40.7400
+Top 5 Test Accuracy           88.9000
+
+Epoch 19        Time: 3.20436954498291
+-------------- Training ----------------
+Average Training Loss:        2.136630
+Average Training Accuracy:    27.8097
+Top 5 Training Accuracy:      78.4973
+---------------- Test ------------------
+Test Accuracy         39.4300
+Top 5 Test Accuracy           86.8100
+
+Epoch 20        Time: 3.1093945503234863
+-------------- Training ----------------
+Average Training Loss:        2.091857
+Average Training Accuracy:    30.0130
+Top 5 Training Accuracy:      80.2572
+---------------- Test ------------------
+Test Accuracy         42.6700
+Top 5 Test Accuracy           89.7100
+
+Epoch 21        Time: 3.7076025009155273
+-------------- Training ----------------
+Average Training Loss:        2.040180
+Average Training Accuracy:    32.2083
+Top 5 Training Accuracy:      82.6904
+---------------- Test ------------------
+Test Accuracy         43.4300
+Top 5 Test Accuracy           89.6400
+
+Epoch 22        Time: 3.854344129562378
+-------------- Training ----------------
+Average Training Loss:        2.037343
+Average Training Accuracy:    32.4585
+Top 5 Training Accuracy:      81.9072
+---------------- Test ------------------
+Test Accuracy         43.7000
+Top 5 Test Accuracy           87.7000
+
+Epoch 23        Time: 3.9260785579681396
+-------------- Training ----------------
+Average Training Loss:        2.023944
+Average Training Accuracy:    33.0872
+Top 5 Training Accuracy:      82.5663
+---------------- Test ------------------
+Test Accuracy         44.5500
+Top 5 Test Accuracy           89.9800
+
+Epoch 24        Time: 3.0608949661254883
+-------------- Training ----------------
+Average Training Loss:        2.034847
+Average Training Accuracy:    33.5307
+Top 5 Training Accuracy:      82.7677
+---------------- Test ------------------
+Test Accuracy         43.1400
+Top 5 Test Accuracy           87.8300
+
+Epoch 25        Time: 2.9978950023651123
+-------------- Training ----------------
+Average Training Loss:        2.025941
+Average Training Accuracy:    34.4482
+Top 5 Training Accuracy:      84.0597
+---------------- Test ------------------
+Test Accuracy         44.2300
+Top 5 Test Accuracy           90.7300
+
+Epoch 26        Time: 2.771008014678955
+-------------- Training ----------------
+Average Training Loss:        2.027122
+Average Training Accuracy:    33.9884
+Top 5 Training Accuracy:      84.0129
+---------------- Test ------------------
+Test Accuracy         43.1800
+Top 5 Test Accuracy           89.1500
+
+Epoch 27        Time: 2.817584276199341
+-------------- Training ----------------
+Average Training Loss:        1.974279
+Average Training Accuracy:    35.6405
+Top 5 Training Accuracy:      84.4177
+---------------- Test ------------------
+Test Accuracy         45.4700
+Top 5 Test Accuracy           89.6400
+
+Epoch 28        Time: 2.9240410327911377
+-------------- Training ----------------
+Average Training Loss:        1.989030
+Average Training Accuracy:    35.3231
+Top 5 Training Accuracy:      84.7738
+---------------- Test ------------------
+Test Accuracy         44.3800
+Top 5 Test Accuracy           90.0000
+
+Epoch 29        Time: 3.2380690574645996
+-------------- Training ----------------
+Average Training Loss:        2.018872
+Average Training Accuracy:    32.5033
+Top 5 Training Accuracy:      82.6253
+---------------- Test ------------------
+Test Accuracy         45.9800
+Top 5 Test Accuracy           90.6200
+
+Epoch 30        Time: 2.900723934173584
+-------------- Training ----------------
+Average Training Loss:        2.001603
+Average Training Accuracy:    34.8165
+Top 5 Training Accuracy:      84.1125
+---------------- Test ------------------
+Test Accuracy         45.4600
+Top 5 Test Accuracy           90.7200
+
+Epoch 31        Time: 2.9060821533203125
+-------------- Training ----------------
+Average Training Loss:        1.971743
+Average Training Accuracy:    37.0626
+Top 5 Training Accuracy:      86.0311
+---------------- Test ------------------
+Test Accuracy         46.7800
+Top 5 Test Accuracy           90.7900
+
+Epoch 32        Time: 3.5423691272735596
+-------------- Training ----------------
+Average Training Loss:        2.002099
+Average Training Accuracy:    35.7341
+Top 5 Training Accuracy:      84.9080
+---------------- Test ------------------
+Test Accuracy         46.2900
+Top 5 Test Accuracy           90.4600
+
+Epoch 33        Time: 3.692622661590576
+-------------- Training ----------------
+Average Training Loss:        1.961706
+Average Training Accuracy:    33.9701
+Top 5 Training Accuracy:      82.6884
+---------------- Test ------------------
+Test Accuracy         46.7900
+Top 5 Test Accuracy           91.6200
+
+Epoch 34        Time: 3.4655120372772217
+-------------- Training ----------------
+Average Training Loss:        2.076282
+Average Training Accuracy:    31.7403
+Top 5 Training Accuracy:      81.3965
+---------------- Test ------------------
+Test Accuracy         45.9900
+Top 5 Test Accuracy           89.6700
+
+Epoch 35        Time: 2.9529716968536377
+-------------- Training ----------------
+Average Training Loss:        2.006454
+Average Training Accuracy:    33.7219
+Top 5 Training Accuracy:      82.8613
+---------------- Test ------------------
+Test Accuracy         46.4300
+Top 5 Test Accuracy           90.1900
+
+Epoch 36        Time: 3.0507161617279053
+-------------- Training ----------------
+Average Training Loss:        1.973088
+Average Training Accuracy:    37.9089
+Top 5 Training Accuracy:      85.9619
+---------------- Test ------------------
+Test Accuracy         47.5100
+Top 5 Test Accuracy           89.8100
+
+Epoch 37        Time: 3.091865062713623
+-------------- Training ----------------
+Average Training Loss:        1.972938
+Average Training Accuracy:    36.7391
+Top 5 Training Accuracy:      84.8572
+---------------- Test ------------------
+Test Accuracy         47.3600
+Top 5 Test Accuracy           91.2200
+
+Epoch 38        Time: 3.113696575164795
+-------------- Training ----------------
+Average Training Loss:        2.010416
+Average Training Accuracy:    37.2070
+Top 5 Training Accuracy:      85.8398
+---------------- Test ------------------
+Test Accuracy         47.7200
+Top 5 Test Accuracy           91.1600
+
+Epoch 39        Time: 3.0116727352142334
+-------------- Training ----------------
+Average Training Loss:        1.949865
+Average Training Accuracy:    38.3443
+Top 5 Training Accuracy:      86.2569
+---------------- Test ------------------
+Test Accuracy         46.7200
+Top 5 Test Accuracy           90.8200
+
+Epoch 40        Time: 3.0498011112213135
+-------------- Training ----------------
+Average Training Loss:        1.956235
+Average Training Accuracy:    35.5082
+Top 5 Training Accuracy:      84.1370
+---------------- Test ------------------
+Test Accuracy         47.9300
+Top 5 Test Accuracy           91.6600
+
+Epoch 41        Time: 2.814328670501709
+-------------- Training ----------------
+Average Training Loss:        2.020180
+Average Training Accuracy:    33.0994
+Top 5 Training Accuracy:      82.3039
+---------------- Test ------------------
+Test Accuracy         47.8700
+Top 5 Test Accuracy           91.3000
+
+Epoch 42        Time: 2.785926342010498
+-------------- Training ----------------
+Average Training Loss:        1.896089
+Average Training Accuracy:    39.9292
+Top 5 Training Accuracy:      87.2375
+---------------- Test ------------------
+Test Accuracy         48.5200
+Top 5 Test Accuracy           91.9100
+
+Epoch 43        Time: 3.517059326171875
+-------------- Training ----------------
+Average Training Loss:        1.936413
+Average Training Accuracy:    38.5702
+Top 5 Training Accuracy:      86.6109
+---------------- Test ------------------
+Test Accuracy         49.4000
+Top 5 Test Accuracy           91.8500
+
+Epoch 44        Time: 3.71500301361084
+-------------- Training ----------------
+Average Training Loss:        2.044767
+Average Training Accuracy:    35.7463
+Top 5 Training Accuracy:      84.2021
+---------------- Test ------------------
+Test Accuracy         47.8000
+Top 5 Test Accuracy           90.9600
+
+Epoch 45        Time: 3.1902003288269043
+-------------- Training ----------------
+Average Training Loss:        1.900943
+Average Training Accuracy:    39.8824
+Top 5 Training Accuracy:      87.3779
+---------------- Test ------------------
+Test Accuracy         49.1000
+Top 5 Test Accuracy           91.5000
+
+Epoch 46        Time: 3.0138723850250244
+-------------- Training ----------------
+Average Training Loss:        2.055666
+Average Training Accuracy:    34.2672
+Top 5 Training Accuracy:      83.0200
+---------------- Test ------------------
+Test Accuracy         48.7100
+Top 5 Test Accuracy           91.7000
+
+Epoch 47        Time: 2.898857355117798
+-------------- Training ----------------
+Average Training Loss:        1.983958
+Average Training Accuracy:    37.4634
+Top 5 Training Accuracy:      85.2234
+---------------- Test ------------------
+Test Accuracy         48.4400
+Top 5 Test Accuracy           90.1800
+
+Epoch 48        Time: 3.136272430419922
+-------------- Training ----------------
+Average Training Loss:        1.884177
+Average Training Accuracy:    40.9403
+Top 5 Training Accuracy:      87.7380
+---------------- Test ------------------
+Test Accuracy         49.4900
+Top 5 Test Accuracy           92.3100
+
+Epoch 49        Time: 2.986250877380371
+-------------- Training ----------------
+Average Training Loss:        1.935922
+Average Training Accuracy:    38.9913
+Top 5 Training Accuracy:      86.6211
+---------------- Test ------------------
+Test Accuracy         49.6200
+Top 5 Test Accuracy           91.8700
+
+Epoch 50        Time: 2.736064910888672
+-------------- Training ----------------
+Average Training Loss:        1.870204
+Average Training Accuracy:    41.7399
+Top 5 Training Accuracy:      88.4867
+---------------- Test ------------------
+Test Accuracy         50.1500
+Top 5 Test Accuracy           92.5600
+
+Epoch 51        Time: 3.1713829040527344
+-------------- Training ----------------
+Average Training Loss:        2.023785
+Average Training Accuracy:    37.9252
+Top 5 Training Accuracy:      85.8236
+---------------- Test ------------------
+Test Accuracy         49.6600
+Top 5 Test Accuracy           91.9100
+
+Epoch 52        Time: 2.8697195053100586
+-------------- Training ----------------
+Average Training Loss:        1.998731
+Average Training Accuracy:    38.8204
+Top 5 Training Accuracy:      86.3241
+---------------- Test ------------------
+Test Accuracy         50.0400
+Top 5 Test Accuracy           92.3100
+
+Epoch 53        Time: 3.1394739151000977
+-------------- Training ----------------
+Average Training Loss:        1.938325
+Average Training Accuracy:    36.9303
+Top 5 Training Accuracy:      84.6476
+---------------- Test ------------------
+Test Accuracy         50.9500
+Top 5 Test Accuracy           92.8800
+
+Epoch 54        Time: 3.756812334060669
+-------------- Training ----------------
+Average Training Loss:        1.889723
+Average Training Accuracy:    39.2660
+Top 5 Training Accuracy:      86.8347
+---------------- Test ------------------
+Test Accuracy         50.3200
+Top 5 Test Accuracy           91.8300
+
+Epoch 55        Time: 3.668485403060913
+-------------- Training ----------------
+Average Training Loss:        2.028789
+Average Training Accuracy:    35.5306
+Top 5 Training Accuracy:      83.7626
+---------------- Test ------------------
+Test Accuracy         51.6600
+Top 5 Test Accuracy           92.6000
+
+Epoch 56        Time: 2.892143964767456
+-------------- Training ----------------
+Average Training Loss:        1.931986
+Average Training Accuracy:    38.5661
+Top 5 Training Accuracy:      85.5448
+---------------- Test ------------------
+Test Accuracy         51.4100
+Top 5 Test Accuracy           92.2800
+
+Epoch 57        Time: 3.1877808570861816
+-------------- Training ----------------
+Average Training Loss:        1.917705
+Average Training Accuracy:    41.3757
+Top 5 Training Accuracy:      88.1226
+---------------- Test ------------------
+Test Accuracy         50.4400
+Top 5 Test Accuracy           92.2200
+
+Epoch 58        Time: 2.9960105419158936
+-------------- Training ----------------
+Average Training Loss:        1.935074
+Average Training Accuracy:    40.8854
+Top 5 Training Accuracy:      87.7136
+---------------- Test ------------------
+Test Accuracy         50.7700
+Top 5 Test Accuracy           91.9600
+
+Epoch 59        Time: 2.924715042114258
+-------------- Training ----------------
+Average Training Loss:        1.906717
+Average Training Accuracy:    41.6992
+Top 5 Training Accuracy:      87.9272
+---------------- Test ------------------
+Test Accuracy         50.7300
+Top 5 Test Accuracy           92.4300
+
+Epoch 60        Time: 2.904261589050293
+-------------- Training ----------------
+Average Training Loss:        1.998149
+Average Training Accuracy:    34.1614
+Top 5 Training Accuracy:      82.4585
+---------------- Test ------------------
+Test Accuracy         52.2900
+Top 5 Test Accuracy           93.0800
+
+Epoch 61        Time: 2.988595962524414
+-------------- Training ----------------
+Average Training Loss:        1.920759
+Average Training Accuracy:    38.0351
+Top 5 Training Accuracy:      85.0952
+---------------- Test ------------------
+Test Accuracy         52.8900
+Top 5 Test Accuracy           93.1000
+
+Epoch 62        Time: 3.067408323287964
+-------------- Training ----------------
+Average Training Loss:        1.921072
+Average Training Accuracy:    39.7156
+Top 5 Training Accuracy:      86.5194
+---------------- Test ------------------
+Test Accuracy         51.1900
+Top 5 Test Accuracy           92.3800
+
+Epoch 63        Time: 3.0227956771850586
+-------------- Training ----------------
+Average Training Loss:        1.991785
+Average Training Accuracy:    37.7848
+Top 5 Training Accuracy:      85.0179
+---------------- Test ------------------
+Test Accuracy         53.3200
+Top 5 Test Accuracy           92.9900
+
+Epoch 64        Time: 3.791935443878174
+-------------- Training ----------------
+Average Training Loss:        1.788141
+Average Training Accuracy:    44.5414
+Top 5 Training Accuracy:      89.5691
+---------------- Test ------------------
+Test Accuracy         51.8100
+Top 5 Test Accuracy           92.9100
+
+Epoch 65        Time: 3.688718557357788
+-------------- Training ----------------
+Average Training Loss:        1.921242
+Average Training Accuracy:    42.7226
+Top 5 Training Accuracy:      88.6353
+---------------- Test ------------------
+Test Accuracy         52.8200
+Top 5 Test Accuracy           93.3400
+
+Epoch 66        Time: 2.9083921909332275
+-------------- Training ----------------
+Average Training Loss:        1.878611
+Average Training Accuracy:    38.9099
+Top 5 Training Accuracy:      85.6059
+---------------- Test ------------------
+Test Accuracy         52.7900
+Top 5 Test Accuracy           92.8300
+
+Epoch 67        Time: 3.085907459259033
+-------------- Training ----------------
+Average Training Loss:        1.842083
+Average Training Accuracy:    44.4539
+Top 5 Training Accuracy:      89.5549
+---------------- Test ------------------
+Test Accuracy         53.0000
+Top 5 Test Accuracy           93.4300
+
+Epoch 68        Time: 2.993013858795166
+-------------- Training ----------------
+Average Training Loss:        2.002950
+Average Training Accuracy:    39.0991
+Top 5 Training Accuracy:      86.2610
+---------------- Test ------------------
+Test Accuracy         52.5900
+Top 5 Test Accuracy           92.9400
+
+Epoch 69        Time: 3.07879376411438
+-------------- Training ----------------
+Average Training Loss:        1.823914
+Average Training Accuracy:    44.6187
+Top 5 Training Accuracy:      89.6952
+---------------- Test ------------------
+Test Accuracy         52.4400
+Top 5 Test Accuracy           92.9700
+
+Epoch 70        Time: 2.942960739135742
+-------------- Training ----------------
+Average Training Loss:        1.871334
+Average Training Accuracy:    43.5710
+Top 5 Training Accuracy:      89.0625
+---------------- Test ------------------
+Test Accuracy         53.5100
+Top 5 Test Accuracy           93.3300
+
+Epoch 71        Time: 2.672112464904785
+-------------- Training ----------------
+Average Training Loss:        1.771712
+Average Training Accuracy:    45.7072
+Top 5 Training Accuracy:      90.0533
+---------------- Test ------------------
+Test Accuracy         53.6300
+Top 5 Test Accuracy           93.8300
+
+Epoch 72        Time: 3.0526459217071533
+-------------- Training ----------------
+Average Training Loss:        1.867344
+Average Training Accuracy:    43.2231
+Top 5 Training Accuracy:      88.8387
+---------------- Test ------------------
+Test Accuracy         54.5700
+Top 5 Test Accuracy           93.9600
+
+Epoch 73        Time: 2.954875946044922
+-------------- Training ----------------
+Average Training Loss:        1.921499
+Average Training Accuracy:    40.3971
+Top 5 Training Accuracy:      86.1857
+---------------- Test ------------------
+Test Accuracy         52.6400
+Top 5 Test Accuracy           92.6800
+
+Epoch 74        Time: 3.6313321590423584
+-------------- Training ----------------
+Average Training Loss:        1.943131
+Average Training Accuracy:    40.0553
+Top 5 Training Accuracy:      86.2467
+---------------- Test ------------------
+Test Accuracy         52.7400
+Top 5 Test Accuracy           92.8700
+
+Epoch 75        Time: 3.964805841445923
+-------------- Training ----------------
+Average Training Loss:        1.913512
+Average Training Accuracy:    43.4916
+Top 5 Training Accuracy:      89.0157
+---------------- Test ------------------
+Test Accuracy         53.0000
+Top 5 Test Accuracy           93.5000
+
+Epoch 76        Time: 3.054082155227661
+-------------- Training ----------------
+Average Training Loss:        1.840792
+Average Training Accuracy:    45.6828
+Top 5 Training Accuracy:      90.0614
+---------------- Test ------------------
+Test Accuracy         53.9000
+Top 5 Test Accuracy           93.3400
+
+Epoch 77        Time: 2.917456865310669
+-------------- Training ----------------
+Average Training Loss:        1.901625
+Average Training Accuracy:    43.0603
+Top 5 Training Accuracy:      88.4745
+---------------- Test ------------------
+Test Accuracy         54.7500
+Top 5 Test Accuracy           93.7900
+
+Epoch 78        Time: 2.5882201194763184
+-------------- Training ----------------
+Average Training Loss:        1.834629
+Average Training Accuracy:    44.4519
+Top 5 Training Accuracy:      89.0340
+---------------- Test ------------------
+Test Accuracy         54.8900
+Top 5 Test Accuracy           93.5600
+
+Epoch 79        Time: 2.811290740966797
+-------------- Training ----------------
+Average Training Loss:        1.983999
+Average Training Accuracy:    39.1968
+Top 5 Training Accuracy:      86.2915
+---------------- Test ------------------
+Test Accuracy         53.6300
+Top 5 Test Accuracy           92.5700
+
+Epoch 80        Time: 2.6587307453155518
+-------------- Training ----------------
+Average Training Loss:        1.964847
+Average Training Accuracy:    39.1113
+Top 5 Training Accuracy:      85.5632
+---------------- Test ------------------
+Test Accuracy         53.5000
+Top 5 Test Accuracy           93.0900
+
+Epoch 81        Time: 2.9659762382507324
+-------------- Training ----------------
+Average Training Loss:        1.836293
+Average Training Accuracy:    44.3685
+Top 5 Training Accuracy:      88.9506
+---------------- Test ------------------
+Test Accuracy         54.2200
+Top 5 Test Accuracy           93.2400
+
+Epoch 82        Time: 2.6704795360565186
+-------------- Training ----------------
+Average Training Loss:        1.910393
+Average Training Accuracy:    43.9596
+Top 5 Training Accuracy:      88.3830
+---------------- Test ------------------
+Test Accuracy         55.2500
+Top 5 Test Accuracy           94.0000
+
+Epoch 83        Time: 2.9875481128692627
+-------------- Training ----------------
+Average Training Loss:        2.024480
+Average Training Accuracy:    36.2020
+Top 5 Training Accuracy:      83.7626
+---------------- Test ------------------
+Test Accuracy         55.8600
+Top 5 Test Accuracy           93.6600
+
+Epoch 84        Time: 3.2551655769348145
+-------------- Training ----------------
+Average Training Loss:        1.817097
+Average Training Accuracy:    45.9330
+Top 5 Training Accuracy:      89.9272
+---------------- Test ------------------
+Test Accuracy         54.2700
+Top 5 Test Accuracy           93.4000
+
+Epoch 85        Time: 3.8714518547058105
+-------------- Training ----------------
+Average Training Loss:        1.807742
+Average Training Accuracy:    43.6951
+Top 5 Training Accuracy:      88.2609
+---------------- Test ------------------
+Test Accuracy         55.4600
+Top 5 Test Accuracy           94.1600
+
+Epoch 86        Time: 3.451907157897949
+-------------- Training ----------------
+Average Training Loss:        1.909473
+Average Training Accuracy:    41.0665
+Top 5 Training Accuracy:      86.5926
+---------------- Test ------------------
+Test Accuracy         55.5700
+Top 5 Test Accuracy           93.4200
+
+Epoch 87        Time: 2.7763149738311768
+-------------- Training ----------------
+Average Training Loss:        1.941502
+Average Training Accuracy:    37.8662
+Top 5 Training Accuracy:      84.5276
+---------------- Test ------------------
+Test Accuracy         56.0200
+Top 5 Test Accuracy           94.0500
+
+Epoch 88        Time: 3.0279767513275146
+-------------- Training ----------------
+Average Training Loss:        1.817706
+Average Training Accuracy:    44.1264
+Top 5 Training Accuracy:      88.4521
+---------------- Test ------------------
+Test Accuracy         55.7900
+Top 5 Test Accuracy           94.0200
+
+Epoch 89        Time: 2.919093608856201
+-------------- Training ----------------
+Average Training Loss:        1.834287
+Average Training Accuracy:    47.2616
+Top 5 Training Accuracy:      90.5131
+---------------- Test ------------------
+Test Accuracy         55.8100
+Top 5 Test Accuracy           93.4800
+
+Epoch 90        Time: 3.0389788150787354
+-------------- Training ----------------
+Average Training Loss:        1.915111
+Average Training Accuracy:    41.6809
+Top 5 Training Accuracy:      87.2579
+---------------- Test ------------------
+Test Accuracy         55.9700
+Top 5 Test Accuracy           93.5300
+
+Epoch 91        Time: 2.8292362689971924
+-------------- Training ----------------
+Average Training Loss:        1.866282
+Average Training Accuracy:    42.8935
+Top 5 Training Accuracy:      87.4430
+---------------- Test ------------------
+Test Accuracy         56.7700
+Top 5 Test Accuracy           93.9900
+
+Epoch 92        Time: 2.8720741271972656
+-------------- Training ----------------
+Average Training Loss:        1.899331
+Average Training Accuracy:    42.7490
+Top 5 Training Accuracy:      87.6709
+---------------- Test ------------------
+Test Accuracy         55.6000
+Top 5 Test Accuracy           93.2500
+
+Epoch 93        Time: 2.8986237049102783
+-------------- Training ----------------
+Average Training Loss:        1.960885
+Average Training Accuracy:    42.7409
+Top 5 Training Accuracy:      87.1541
+---------------- Test ------------------
+Test Accuracy         56.5700
+Top 5 Test Accuracy           93.8300
+
+Epoch 94        Time: 2.9241909980773926
+-------------- Training ----------------
+Average Training Loss:        2.062404
+Average Training Accuracy:    34.3343
+Top 5 Training Accuracy:      82.9407
+---------------- Test ------------------
+Test Accuracy         55.5200
+Top 5 Test Accuracy           92.9400
+
+Epoch 95        Time: 3.8355398178100586
+-------------- Training ----------------
+Average Training Loss:        1.737167
+Average Training Accuracy:    48.1995
+Top 5 Training Accuracy:      90.4704
+---------------- Test ------------------
+Test Accuracy         57.1600
+Top 5 Test Accuracy           94.5600
+
+Epoch 96        Time: 3.3832967281341553
+-------------- Training ----------------
+Average Training Loss:        1.840593
+Average Training Accuracy:    43.3187
+Top 5 Training Accuracy:      87.6729
+---------------- Test ------------------
+Test Accuracy         56.9100
+Top 5 Test Accuracy           94.4100
+
+Epoch 97        Time: 2.823638439178467
+-------------- Training ----------------
+Average Training Loss:        1.805253
+Average Training Accuracy:    46.9259
+Top 5 Training Accuracy:      90.3931
+---------------- Test ------------------
+Test Accuracy         57.4300
+Top 5 Test Accuracy           94.3700
+
+Epoch 98        Time: 2.7911314964294434
+-------------- Training ----------------
+Average Training Loss:        1.934245
+Average Training Accuracy:    42.7572
+Top 5 Training Accuracy:      87.7889
+---------------- Test ------------------
+Test Accuracy         56.5000
+Top 5 Test Accuracy           94.0000
+
+Epoch 99        Time: 2.9581844806671143
+-------------- Training ----------------
+Average Training Loss:        1.936388
+Average Training Accuracy:    44.7998
+Top 5 Training Accuracy:      89.0686
+---------------- Test ------------------
+Test Accuracy         57.7100
+Top 5 Test Accuracy           94.1400
+
+No wandb entity provided, Continuing without wandb
+Loading ./beton/cifar100/train/train_32.beton
+Loading ./beton/cifar100/test/test_32.beton
+Epoch 1        Time: 26.725996494293213
+-------------- Training ----------------
+Average Training Loss:        4.582036
+Average Training Accuracy:    3.4363
+Top 5 Training Accuracy:      12.2803
+---------------- Test ------------------
+Test Accuracy         7.2100
+Top 5 Test Accuracy           21.3300
+
+Epoch 2        Time: 3.1122243404388428
+-------------- Training ----------------
+Average Training Loss:        4.464807
+Average Training Accuracy:    5.3996
+Top 5 Training Accuracy:      17.9199
+---------------- Test ------------------
+Test Accuracy         9.2500
+Top 5 Test Accuracy           27.4000
+
+Epoch 3        Time: 3.0276126861572266
+-------------- Training ----------------
+Average Training Loss:        4.400604
+Average Training Accuracy:    6.2785
+Top 5 Training Accuracy:      20.4753
+---------------- Test ------------------
+Test Accuracy         9.5800
+Top 5 Test Accuracy           28.7700
+
+Epoch 4        Time: 2.952002763748169
+-------------- Training ----------------
+Average Training Loss:        4.373574
+Average Training Accuracy:    7.3914
+Top 5 Training Accuracy:      23.8159
+---------------- Test ------------------
+Test Accuracy         10.8600
+Top 5 Test Accuracy           31.6800
+
+Epoch 5        Time: 3.757714033126831
+-------------- Training ----------------
+Average Training Loss:        4.267303
+Average Training Accuracy:    9.1695
+Top 5 Training Accuracy:      27.0243
+---------------- Test ------------------
+Test Accuracy         11.8100
+Top 5 Test Accuracy           33.7400
+
+Epoch 6        Time: 3.402665138244629
+-------------- Training ----------------
+Average Training Loss:        4.202404
+Average Training Accuracy:    9.8267
+Top 5 Training Accuracy:      27.8687
+---------------- Test ------------------
+Test Accuracy         15.5700
+Top 5 Test Accuracy           37.4500
+
+Epoch 7        Time: 2.9740445613861084
+-------------- Training ----------------
+Average Training Loss:        4.203371
+Average Training Accuracy:    10.4106
+Top 5 Training Accuracy:      29.6183
+---------------- Test ------------------
+Test Accuracy         15.0700
+Top 5 Test Accuracy           39.0000
+
+Epoch 8        Time: 3.082674980163574
+-------------- Training ----------------
+Average Training Loss:        4.277379
+Average Training Accuracy:    10.1969
+Top 5 Training Accuracy:      29.1768
+---------------- Test ------------------
+Test Accuracy         14.9300
+Top 5 Test Accuracy           37.8600
+
+Epoch 9        Time: 3.0142879486083984
+-------------- Training ----------------
+Average Training Loss:        4.329445
+Average Training Accuracy:    8.5897
+Top 5 Training Accuracy:      25.5168
+---------------- Test ------------------
+Test Accuracy         15.6300
+Top 5 Test Accuracy           38.6700
+
+Epoch 10        Time: 2.8301620483398438
+-------------- Training ----------------
+Average Training Loss:        4.118697
+Average Training Accuracy:    11.3241
+Top 5 Training Accuracy:      31.1544
+---------------- Test ------------------
+Test Accuracy         16.6300
+Top 5 Test Accuracy           40.8700
+
+Epoch 11        Time: 2.974954605102539
+-------------- Training ----------------
+Average Training Loss:        4.241312
+Average Training Accuracy:    10.9924
+Top 5 Training Accuracy:      30.6071
+---------------- Test ------------------
+Test Accuracy         16.2900
+Top 5 Test Accuracy           40.2600
+
+Epoch 12        Time: 2.947235107421875
+-------------- Training ----------------
+Average Training Loss:        4.299869
+Average Training Accuracy:    9.2733
+Top 5 Training Accuracy:      26.4323
+---------------- Test ------------------
+Test Accuracy         17.3400
+Top 5 Test Accuracy           42.2300
+
+Epoch 13        Time: 3.1285641193389893
+-------------- Training ----------------
+Average Training Loss:        4.195243
+Average Training Accuracy:    11.2996
+Top 5 Training Accuracy:      30.8879
+---------------- Test ------------------
+Test Accuracy         18.8400
+Top 5 Test Accuracy           43.6600
+
+Epoch 14        Time: 2.849106550216675
+-------------- Training ----------------
+Average Training Loss:        4.162505
+Average Training Accuracy:    12.2640
+Top 5 Training Accuracy:      33.1807
+---------------- Test ------------------
+Test Accuracy         19.6600
+Top 5 Test Accuracy           45.4600
+
+Epoch 15        Time: 3.2516067028045654
+-------------- Training ----------------
+Average Training Loss:        4.197885
+Average Training Accuracy:    12.3617
+Top 5 Training Accuracy:      33.0241
+---------------- Test ------------------
+Test Accuracy         17.4000
+Top 5 Test Accuracy           40.8300
+
+Epoch 16        Time: 3.6539182662963867
+-------------- Training ----------------
+Average Training Loss:        4.025683
+Average Training Accuracy:    14.8478
+Top 5 Training Accuracy:      37.7360
+---------------- Test ------------------
+Test Accuracy         20.0900
+Top 5 Test Accuracy           45.8900
+
+Epoch 17        Time: 3.1870548725128174
+-------------- Training ----------------
+Average Training Loss:        4.026674
+Average Training Accuracy:    14.4999
+Top 5 Training Accuracy:      37.0178
+---------------- Test ------------------
+Test Accuracy         19.3500
+Top 5 Test Accuracy           44.0800
+
+Epoch 18        Time: 3.070495367050171
+-------------- Training ----------------
+Average Training Loss:        4.040631
+Average Training Accuracy:    14.4816
+Top 5 Training Accuracy:      36.0616
+---------------- Test ------------------
+Test Accuracy         21.9000
+Top 5 Test Accuracy           48.0700
+
+Epoch 19        Time: 3.026207685470581
+-------------- Training ----------------
+Average Training Loss:        4.015542
+Average Training Accuracy:    14.4511
+Top 5 Training Accuracy:      36.6882
+---------------- Test ------------------
+Test Accuracy         21.9800
+Top 5 Test Accuracy           49.3800
+
+Epoch 20        Time: 2.8042702674865723
+-------------- Training ----------------
+Average Training Loss:        3.930293
+Average Training Accuracy:    16.2435
+Top 5 Training Accuracy:      40.0513
+---------------- Test ------------------
+Test Accuracy         20.8000
+Top 5 Test Accuracy           47.7700
+
+Epoch 21        Time: 2.899517297744751
+-------------- Training ----------------
+Average Training Loss:        4.175026
+Average Training Accuracy:    13.7085
+Top 5 Training Accuracy:      35.4553
+---------------- Test ------------------
+Test Accuracy         21.5600
+Top 5 Test Accuracy           47.2100
+
+Epoch 22        Time: 2.973790407180786
+-------------- Training ----------------
+Average Training Loss:        4.046491
+Average Training Accuracy:    15.0513
+Top 5 Training Accuracy:      38.0412
+---------------- Test ------------------
+Test Accuracy         20.7500
+Top 5 Test Accuracy           47.8200
+
+Epoch 23        Time: 2.9483118057250977
+-------------- Training ----------------
+Average Training Loss:        4.009569
+Average Training Accuracy:    14.0422
+Top 5 Training Accuracy:      35.6893
+---------------- Test ------------------
+Test Accuracy         22.6700
+Top 5 Test Accuracy           49.4800
+
+Epoch 24        Time: 2.92840313911438
+-------------- Training ----------------
+Average Training Loss:        4.103054
+Average Training Accuracy:    13.8977
+Top 5 Training Accuracy:      34.7738
+---------------- Test ------------------
+Test Accuracy         22.7600
+Top 5 Test Accuracy           49.7200
+
+Epoch 25        Time: 2.9128060340881348
+-------------- Training ----------------
+Average Training Loss:        4.099184
+Average Training Accuracy:    15.4073
+Top 5 Training Accuracy:      37.9740
+---------------- Test ------------------
+Test Accuracy         22.4400
+Top 5 Test Accuracy           49.3600
+
+Epoch 26        Time: 3.66481614112854
+-------------- Training ----------------
+Average Training Loss:        3.896709
+Average Training Accuracy:    16.8844
+Top 5 Training Accuracy:      40.6372
+---------------- Test ------------------
+Test Accuracy         23.3600
+Top 5 Test Accuracy           51.1400
+
+Epoch 27        Time: 3.703559398651123
+-------------- Training ----------------
+Average Training Loss:        4.006587
+Average Training Accuracy:    17.2485
+Top 5 Training Accuracy:      41.0014
+---------------- Test ------------------
+Test Accuracy         22.6200
+Top 5 Test Accuracy           49.7100
+
+Epoch 28        Time: 2.9471921920776367
+-------------- Training ----------------
+Average Training Loss:        3.990833
+Average Training Accuracy:    17.7958
+Top 5 Training Accuracy:      42.2038
+---------------- Test ------------------
+Test Accuracy         24.0900
+Top 5 Test Accuracy           51.0300
+
+Epoch 29        Time: 2.7861387729644775
+-------------- Training ----------------
+Average Training Loss:        4.147152
+Average Training Accuracy:    14.7949
+Top 5 Training Accuracy:      36.7411
+---------------- Test ------------------
+Test Accuracy         22.9600
+Top 5 Test Accuracy           50.1700
+
+Epoch 30        Time: 2.8619790077209473
+-------------- Training ----------------
+Average Training Loss:        3.766891
+Average Training Accuracy:    19.3888
+Top 5 Training Accuracy:      44.5007
+---------------- Test ------------------
+Test Accuracy         24.8500
+Top 5 Test Accuracy           53.2100
+
+Epoch 31        Time: 2.959786891937256
+-------------- Training ----------------
+Average Training Loss:        3.934467
+Average Training Accuracy:    18.5466
+Top 5 Training Accuracy:      43.4591
+---------------- Test ------------------
+Test Accuracy         24.7300
+Top 5 Test Accuracy           52.1500
+
+Epoch 32        Time: 3.057610034942627
+-------------- Training ----------------
+Average Training Loss:        3.850977
+Average Training Accuracy:    18.0379
+Top 5 Training Accuracy:      42.3421
+---------------- Test ------------------
+Test Accuracy         24.9400
+Top 5 Test Accuracy           52.2400
+
+Epoch 33        Time: 2.7684714794158936
+-------------- Training ----------------
+Average Training Loss:        3.819793
+Average Training Accuracy:    19.9117
+Top 5 Training Accuracy:      45.1029
+---------------- Test ------------------
+Test Accuracy         25.6500
+Top 5 Test Accuracy           53.7000
+
+Epoch 34        Time: 2.9356067180633545
+-------------- Training ----------------
+Average Training Loss:        3.902406
+Average Training Accuracy:    19.4906
+Top 5 Training Accuracy:      44.6289
+---------------- Test ------------------
+Test Accuracy         25.3900
+Top 5 Test Accuracy           53.3500
+
+Epoch 35        Time: 2.8967902660369873
+-------------- Training ----------------
+Average Training Loss:        3.757044
+Average Training Accuracy:    21.2097
+Top 5 Training Accuracy:      47.2046
+---------------- Test ------------------
+Test Accuracy         25.1800
+Top 5 Test Accuracy           52.3600
+
+Epoch 36        Time: 3.29612398147583
+-------------- Training ----------------
+Average Training Loss:        3.921186
+Average Training Accuracy:    18.9392
+Top 5 Training Accuracy:      44.4682
+---------------- Test ------------------
+Test Accuracy         25.1400
+Top 5 Test Accuracy           52.5300
+
+Epoch 37        Time: 3.8249614238739014
+-------------- Training ----------------
+Average Training Loss:        3.961336
+Average Training Accuracy:    19.1488
+Top 5 Training Accuracy:      44.5190
+---------------- Test ------------------
+Test Accuracy         24.6300
+Top 5 Test Accuracy           52.1000
+
+Epoch 38        Time: 2.9237935543060303
+-------------- Training ----------------
+Average Training Loss:        3.836085
+Average Training Accuracy:    21.1100
+Top 5 Training Accuracy:      47.1741
+---------------- Test ------------------
+Test Accuracy         26.5500
+Top 5 Test Accuracy           54.5300
+
+Epoch 39        Time: 3.0856783390045166
+-------------- Training ----------------
+Average Training Loss:        3.741919
+Average Training Accuracy:    22.3328
+Top 5 Training Accuracy:      48.6898
+---------------- Test ------------------
+Test Accuracy         25.9500
+Top 5 Test Accuracy           53.7400
+
+Epoch 40        Time: 2.7410190105438232
+-------------- Training ----------------
+Average Training Loss:        4.175282
+Average Training Accuracy:    13.1449
+Top 5 Training Accuracy:      33.5775
+---------------- Test ------------------
+Test Accuracy         24.2900
+Top 5 Test Accuracy           51.7400
+
+Epoch 41        Time: 2.917503595352173
+-------------- Training ----------------
+Average Training Loss:        3.808103
+Average Training Accuracy:    20.0033
+Top 5 Training Accuracy:      45.6950
+---------------- Test ------------------
+Test Accuracy         26.6800
+Top 5 Test Accuracy           53.3200
+
+Epoch 42        Time: 2.892465591430664
+-------------- Training ----------------
+Average Training Loss:        3.908117
+Average Training Accuracy:    18.2963
+Top 5 Training Accuracy:      42.2058
+---------------- Test ------------------
+Test Accuracy         27.6800
+Top 5 Test Accuracy           56.1400
+
+Epoch 43        Time: 2.912911891937256
+-------------- Training ----------------
+Average Training Loss:        3.754322
+Average Training Accuracy:    21.8506
+Top 5 Training Accuracy:      48.1812
+---------------- Test ------------------
+Test Accuracy         27.4100
+Top 5 Test Accuracy           55.3400
+
+Epoch 44        Time: 3.026153802871704
+-------------- Training ----------------
+Average Training Loss:        3.919471
+Average Training Accuracy:    18.7317
+Top 5 Training Accuracy:      43.2983
+---------------- Test ------------------
+Test Accuracy         28.3400
+Top 5 Test Accuracy           57.1700
+
+Epoch 45        Time: 2.85624623298645
+-------------- Training ----------------
+Average Training Loss:        4.096295
+Average Training Accuracy:    16.3086
+Top 5 Training Accuracy:      38.9465
+---------------- Test ------------------
+Test Accuracy         27.0800
+Top 5 Test Accuracy           54.8600
+
+Epoch 46        Time: 2.767838954925537
+-------------- Training ----------------
+Average Training Loss:        3.731166
+Average Training Accuracy:    22.3674
+Top 5 Training Accuracy:      48.7101
+---------------- Test ------------------
+Test Accuracy         27.6900
+Top 5 Test Accuracy           56.2600
+
+Epoch 47        Time: 3.585909366607666
+-------------- Training ----------------
+Average Training Loss:        3.815100
+Average Training Accuracy:    21.6756
+Top 5 Training Accuracy:      47.1069
+---------------- Test ------------------
+Test Accuracy         27.7100
+Top 5 Test Accuracy           55.2600
+
+Epoch 48        Time: 3.8951642513275146
+-------------- Training ----------------
+Average Training Loss:        3.957630
+Average Training Accuracy:    20.0114
+Top 5 Training Accuracy:      44.9890
+---------------- Test ------------------
+Test Accuracy         27.7700
+Top 5 Test Accuracy           56.2200
+
+Epoch 49        Time: 2.910989761352539
+-------------- Training ----------------
+Average Training Loss:        3.866271
+Average Training Accuracy:    21.1222
+Top 5 Training Accuracy:      46.1914
+---------------- Test ------------------
+Test Accuracy         28.5300
+Top 5 Test Accuracy           56.0300
+
+Epoch 50        Time: 3.0705959796905518
+-------------- Training ----------------
+Average Training Loss:        3.815477
+Average Training Accuracy:    22.8088
+Top 5 Training Accuracy:      48.9726
+---------------- Test ------------------
+Test Accuracy         27.6100
+Top 5 Test Accuracy           55.6100
+
+Epoch 51        Time: 3.000131368637085
+-------------- Training ----------------
+Average Training Loss:        3.993618
+Average Training Accuracy:    18.8375
+Top 5 Training Accuracy:      42.7734
+---------------- Test ------------------
+Test Accuracy         27.8500
+Top 5 Test Accuracy           55.1100
+
+Epoch 52        Time: 3.1004695892333984
+-------------- Training ----------------
+Average Training Loss:        3.752421
+Average Training Accuracy:    22.6847
+Top 5 Training Accuracy:      49.1374
+---------------- Test ------------------
+Test Accuracy         28.2900
+Top 5 Test Accuracy           56.0200
+
+Epoch 53        Time: 3.153528928756714
+-------------- Training ----------------
+Average Training Loss:        3.896858
+Average Training Accuracy:    20.2779
+Top 5 Training Accuracy:      45.0623
+---------------- Test ------------------
+Test Accuracy         29.9500
+Top 5 Test Accuracy           58.4000
+
+Epoch 54        Time: 2.976710081100464
+-------------- Training ----------------
+Average Training Loss:        3.514589
+Average Training Accuracy:    25.6307
+Top 5 Training Accuracy:      53.7740
+---------------- Test ------------------
+Test Accuracy         29.0700
+Top 5 Test Accuracy           57.6100
+
+Epoch 55        Time: 2.7866506576538086
+-------------- Training ----------------
+Average Training Loss:        3.831428
+Average Training Accuracy:    20.0602
+Top 5 Training Accuracy:      44.8120
+---------------- Test ------------------
+Test Accuracy         30.7600
+Top 5 Test Accuracy           59.1800
+
+Epoch 56        Time: 2.817765712738037
+-------------- Training ----------------
+Average Training Loss:        3.745503
+Average Training Accuracy:    24.7925
+Top 5 Training Accuracy:      51.8514
+---------------- Test ------------------
+Test Accuracy         29.8500
+Top 5 Test Accuracy           58.4800
+
+Epoch 57        Time: 3.495143413543701
+-------------- Training ----------------
+Average Training Loss:        4.139234
+Average Training Accuracy:    11.9649
+Top 5 Training Accuracy:      31.6610
+---------------- Test ------------------
+Test Accuracy         28.4500
+Top 5 Test Accuracy           56.5200
+
+Epoch 58        Time: 3.9574966430664062
+-------------- Training ----------------
+Average Training Loss:        3.791132
+Average Training Accuracy:    22.5281
+Top 5 Training Accuracy:      48.0672
+---------------- Test ------------------
+Test Accuracy         30.1200
+Top 5 Test Accuracy           59.2600
+
+Epoch 59        Time: 2.9111199378967285
+-------------- Training ----------------
+Average Training Loss:        3.905305
+Average Training Accuracy:    18.5140
+Top 5 Training Accuracy:      42.0125
+---------------- Test ------------------
+Test Accuracy         29.4200
+Top 5 Test Accuracy           57.9800
+
+Epoch 60        Time: 3.1247239112854004
+-------------- Training ----------------
+Average Training Loss:        3.450339
+Average Training Accuracy:    27.0833
+Top 5 Training Accuracy:      55.1005
+---------------- Test ------------------
+Test Accuracy         31.4400
+Top 5 Test Accuracy           59.4800
+
+Epoch 61        Time: 3.12719988822937
+-------------- Training ----------------
+Average Training Loss:        3.989614
+Average Training Accuracy:    18.6890
+Top 5 Training Accuracy:      42.3910
+---------------- Test ------------------
+Test Accuracy         30.7000
+Top 5 Test Accuracy           58.7100
+
+Epoch 62        Time: 3.022893190383911
+-------------- Training ----------------
+Average Training Loss:        3.748555
+Average Training Accuracy:    22.3307
+Top 5 Training Accuracy:      47.4406
+---------------- Test ------------------
+Test Accuracy         30.6600
+Top 5 Test Accuracy           58.7900
+
+Epoch 63        Time: 2.928417205810547
+-------------- Training ----------------
+Average Training Loss:        3.825945
+Average Training Accuracy:    19.4275
+Top 5 Training Accuracy:      43.5730
+---------------- Test ------------------
+Test Accuracy         30.1500
+Top 5 Test Accuracy           58.3300
+
+Epoch 64        Time: 2.9545555114746094
+-------------- Training ----------------
+Average Training Loss:        3.866705
+Average Training Accuracy:    21.0612
+Top 5 Training Accuracy:      46.0592
+---------------- Test ------------------
+Test Accuracy         30.0900
+Top 5 Test Accuracy           58.7000
+
+Epoch 65        Time: 2.997087240219116
+-------------- Training ----------------
+Average Training Loss:        3.864940
+Average Training Accuracy:    17.9626
+Top 5 Training Accuracy:      40.4622
+---------------- Test ------------------
+Test Accuracy         30.6800
+Top 5 Test Accuracy           59.0400
+
+Epoch 66        Time: 3.099729537963867
+-------------- Training ----------------
+Average Training Loss:        3.598466
+Average Training Accuracy:    27.5838
+Top 5 Training Accuracy:      55.2429
+---------------- Test ------------------
+Test Accuracy         31.0200
+Top 5 Test Accuracy           60.1000
+
+Epoch 67        Time: 3.1626083850860596
+-------------- Training ----------------
+Average Training Loss:        3.722785
+Average Training Accuracy:    22.9899
+Top 5 Training Accuracy:      48.7264
+---------------- Test ------------------
+Test Accuracy         32.6800
+Top 5 Test Accuracy           61.3300
+
+Epoch 68        Time: 3.1682238578796387
+-------------- Training ----------------
+Average Training Loss:        3.729621
+Average Training Accuracy:    24.4568
+Top 5 Training Accuracy:      50.8586
+---------------- Test ------------------
+Test Accuracy         32.4100
+Top 5 Test Accuracy           61.2800
+
+Epoch 69        Time: 3.079482078552246
+-------------- Training ----------------
+Average Training Loss:        3.651503
+Average Training Accuracy:    25.7894
+Top 5 Training Accuracy:      52.6794
+---------------- Test ------------------
+Test Accuracy         32.7000
+Top 5 Test Accuracy           61.7400
+
+Epoch 70        Time: 3.103052854537964
+-------------- Training ----------------
+Average Training Loss:        3.574702
+Average Training Accuracy:    26.6642
+Top 5 Training Accuracy:      53.9347
+---------------- Test ------------------
+Test Accuracy         32.7600
+Top 5 Test Accuracy           61.6200
+
+Epoch 71        Time: 3.190119743347168
+-------------- Training ----------------
+Average Training Loss:        3.487119
+Average Training Accuracy:    28.9124
+Top 5 Training Accuracy:      56.9906
+---------------- Test ------------------
+Test Accuracy         33.5300
+Top 5 Test Accuracy           61.6300
+
+Epoch 72        Time: 3.3078129291534424
+-------------- Training ----------------
+Average Training Loss:        4.048339
+Average Training Accuracy:    17.4906
+Top 5 Training Accuracy:      40.2791
+---------------- Test ------------------
+Test Accuracy         31.4900
+Top 5 Test Accuracy           59.8200
+
+Epoch 73        Time: 3.0125367641448975
+-------------- Training ----------------
+Average Training Loss:        3.568597
+Average Training Accuracy:    24.0316
+Top 5 Training Accuracy:      49.6501
+---------------- Test ------------------
+Test Accuracy         32.3900
+Top 5 Test Accuracy           60.9900
+
+Epoch 74        Time: 3.4596140384674072
+-------------- Training ----------------
+Average Training Loss:        3.871189
+Average Training Accuracy:    22.0907
+Top 5 Training Accuracy:      47.2778
+---------------- Test ------------------
+Test Accuracy         31.6600
+Top 5 Test Accuracy           60.4400
+
+Epoch 75        Time: 2.8412625789642334
+-------------- Training ----------------
+Average Training Loss:        3.630620
+Average Training Accuracy:    24.1333
+Top 5 Training Accuracy:      49.6399
+---------------- Test ------------------
+Test Accuracy         33.1700
+Top 5 Test Accuracy           62.0200
+
+Epoch 76        Time: 2.9799282550811768
+-------------- Training ----------------
+Average Training Loss:        3.729991
+Average Training Accuracy:    22.8984
+Top 5 Training Accuracy:      48.2951
+---------------- Test ------------------
+Test Accuracy         32.5000
+Top 5 Test Accuracy           61.4400
+
+Epoch 77        Time: 3.0012011528015137
+-------------- Training ----------------
+Average Training Loss:        3.942137
+Average Training Accuracy:    20.3959
+Top 5 Training Accuracy:      43.8477
+---------------- Test ------------------
+Test Accuracy         32.8200
+Top 5 Test Accuracy           61.4500
+
+Epoch 78        Time: 3.0663249492645264
+-------------- Training ----------------
+Average Training Loss:        3.296993
+Average Training Accuracy:    31.4575
+Top 5 Training Accuracy:      60.1786
+---------------- Test ------------------
+Test Accuracy         34.2100
+Top 5 Test Accuracy           62.7200
+
+Epoch 79        Time: 2.8928592205047607
+-------------- Training ----------------
+Average Training Loss:        3.585324
+Average Training Accuracy:    29.4942
+Top 5 Training Accuracy:      57.8145
+---------------- Test ------------------
+Test Accuracy         33.4000
+Top 5 Test Accuracy           62.1900
+
+Epoch 80        Time: 3.1583774089813232
+-------------- Training ----------------
+Average Training Loss:        3.619162
+Average Training Accuracy:    28.8005
+Top 5 Training Accuracy:      56.9987
+---------------- Test ------------------
+Test Accuracy         33.2600
+Top 5 Test Accuracy           61.5800
+
+Epoch 81        Time: 2.9989013671875
+-------------- Training ----------------
+Average Training Loss:        3.590707
+Average Training Accuracy:    28.1433
+Top 5 Training Accuracy:      56.1584
+---------------- Test ------------------
+Test Accuracy         33.5000
+Top 5 Test Accuracy           61.9600
+
+Epoch 82        Time: 2.8950164318084717
+-------------- Training ----------------
+Average Training Loss:        3.933509
+Average Training Accuracy:    22.3389
+Top 5 Training Accuracy:      47.7193
+---------------- Test ------------------
+Test Accuracy         32.1800
+Top 5 Test Accuracy           61.1600
+
+Epoch 83        Time: 3.0563747882843018
+-------------- Training ----------------
+Average Training Loss:        3.502310
+Average Training Accuracy:    25.9013
+Top 5 Training Accuracy:      51.8066
+---------------- Test ------------------
+Test Accuracy         33.6700
+Top 5 Test Accuracy           62.0800
+
+Epoch 84        Time: 3.37682843208313
+-------------- Training ----------------
+Average Training Loss:        3.510677
+Average Training Accuracy:    30.2022
+Top 5 Training Accuracy:      58.5632
+---------------- Test ------------------
+Test Accuracy         34.0300
+Top 5 Test Accuracy           62.5300
+
+Epoch 85        Time: 3.0720291137695312
+-------------- Training ----------------
+Average Training Loss:        3.823837
+Average Training Accuracy:    25.7304
+Top 5 Training Accuracy:      52.8809
+---------------- Test ------------------
+Test Accuracy         34.3500
+Top 5 Test Accuracy           62.7100
+
+Epoch 86        Time: 2.945087194442749
+-------------- Training ----------------
+Average Training Loss:        3.536850
+Average Training Accuracy:    29.3722
+Top 5 Training Accuracy:      57.0129
+---------------- Test ------------------
+Test Accuracy         34.2400
+Top 5 Test Accuracy           62.8200
+
+Epoch 87        Time: 2.9777095317840576
+-------------- Training ----------------
+Average Training Loss:        3.255093
+Average Training Accuracy:    33.2540
+Top 5 Training Accuracy:      61.9873
+---------------- Test ------------------
+Test Accuracy         35.1400
+Top 5 Test Accuracy           63.1300
+
+Epoch 88        Time: 3.1715924739837646
+-------------- Training ----------------
+Average Training Loss:        3.711425
+Average Training Accuracy:    24.4283
+Top 5 Training Accuracy:      50.0448
+---------------- Test ------------------
+Test Accuracy         35.5000
+Top 5 Test Accuracy           63.8800
+
+Epoch 89        Time: 3.0202200412750244
+-------------- Training ----------------
+Average Training Loss:        3.835278
+Average Training Accuracy:    24.8637
+Top 5 Training Accuracy:      51.0661
+---------------- Test ------------------
+Test Accuracy         34.6700
+Top 5 Test Accuracy           62.5800
+
+Epoch 90        Time: 2.850551128387451
+-------------- Training ----------------
+Average Training Loss:        3.454334
+Average Training Accuracy:    31.3171
+Top 5 Training Accuracy:      59.9202
+---------------- Test ------------------
+Test Accuracy         34.4500
+Top 5 Test Accuracy           62.7100
+
+Epoch 91        Time: 2.98111629486084
+-------------- Training ----------------
+Average Training Loss:        3.390884
+Average Training Accuracy:    32.8878
+Top 5 Training Accuracy:      61.3241
+---------------- Test ------------------
+Test Accuracy         35.4100
+Top 5 Test Accuracy           64.1200
+
+Epoch 92        Time: 3.0036673545837402
+-------------- Training ----------------
+Average Training Loss:        3.882374
+Average Training Accuracy:    23.8708
+Top 5 Training Accuracy:      49.3652
+---------------- Test ------------------
+Test Accuracy         34.1400
+Top 5 Test Accuracy           62.6500
+
+Epoch 93        Time: 2.9264113903045654
+-------------- Training ----------------
+Average Training Loss:        3.373392
+Average Training Accuracy:    31.8705
+Top 5 Training Accuracy:      59.9650
+---------------- Test ------------------
+Test Accuracy         36.4000
+Top 5 Test Accuracy           64.5300
+
+Epoch 94        Time: 3.6024370193481445
+-------------- Training ----------------
+Average Training Loss:        3.529929
+Average Training Accuracy:    31.8502
+Top 5 Training Accuracy:      60.0301
+---------------- Test ------------------
+Test Accuracy         35.3000
+Top 5 Test Accuracy           63.6400
+
+Epoch 95        Time: 3.24556827545166
+-------------- Training ----------------
+Average Training Loss:        3.518528
+Average Training Accuracy:    30.1514
+Top 5 Training Accuracy:      57.6925
+---------------- Test ------------------
+Test Accuracy         36.7300
+Top 5 Test Accuracy           64.9000
+
+Epoch 96        Time: 3.04030704498291
+-------------- Training ----------------
+Average Training Loss:        3.219542
+Average Training Accuracy:    35.5469
+Top 5 Training Accuracy:      64.6810
+---------------- Test ------------------
+Test Accuracy         36.8300
+Top 5 Test Accuracy           65.1600
+
+Epoch 97        Time: 2.9197750091552734
+-------------- Training ----------------
+Average Training Loss:        3.593037
+Average Training Accuracy:    26.7192
+Top 5 Training Accuracy:      52.8666
+---------------- Test ------------------
+Test Accuracy         36.9800
+Top 5 Test Accuracy           65.0900
+
+Epoch 98        Time: 3.0763938426971436
+-------------- Training ----------------
+Average Training Loss:        3.328873
+Average Training Accuracy:    34.0820
+Top 5 Training Accuracy:      62.5875
+---------------- Test ------------------
+Test Accuracy         36.0100
+Top 5 Test Accuracy           64.0400
+
+Epoch 99        Time: 3.144789934158325
+-------------- Training ----------------
+Average Training Loss:        3.702033
+Average Training Accuracy:    26.1068
+Top 5 Training Accuracy:      51.8005
+---------------- Test ------------------
+Test Accuracy         35.7400
+Top 5 Test Accuracy           63.6500
+
+No wandb entity provided, Continuing without wandb
+Loading ./beton/tiny-imagenet-200/train/train_64.beton
+Loading ./beton/tiny-imagenet-200/val/val_64.beton
+No wandb entity provided, Continuing without wandb
+Loading ./beton/cifar10/train/train_32.beton
+Loading ./beton/cifar10/val/val_32.beton
+No wandb entity provided, Continuing without wandb
+Loading ./beton/cifar100/train/train_32.beton
+Loading ./beton/cifar100/test/test_32.beton
+No wandb entity provided, Continuing without wandb
+Loading ./beton/tiny-imagenet-200/train/train_64.beton
+Loading ./beton/tiny-imagenet-200/val/val_64.beton
+Epoch 1        Time: 61.35968208312988
+-------------- Training ----------------
+Average Training Loss:        5.454590
+Average Training Accuracy:    1.3224
+Top 5 Training Accuracy:      5.6081
+---------------- Test ------------------
+Test Accuracy         0.0600
+Top 5 Test Accuracy           0.7500
+
+Epoch 2        Time: 11.729792594909668
+-------------- Training ----------------
+Average Training Loss:        5.335145
+Average Training Accuracy:    2.3407
+Top 5 Training Accuracy:      8.4422
+---------------- Test ------------------
+Test Accuracy         0.2200
+Top 5 Test Accuracy           2.3700
+
+Epoch 3        Time: 10.084306716918945
+-------------- Training ----------------
+Average Training Loss:        5.293995
+Average Training Accuracy:    2.7608
+Top 5 Training Accuracy:      9.5601
+---------------- Test ------------------
+Test Accuracy         0.1000
+Top 5 Test Accuracy           0.5300
+
+Epoch 4        Time: 10.08607816696167
+-------------- Training ----------------
+Average Training Loss:        5.274937
+Average Training Accuracy:    3.0640
+Top 5 Training Accuracy:      10.5855
+---------------- Test ------------------
+Test Accuracy         0.8400
+Top 5 Test Accuracy           4.1600
+
+Epoch 5        Time: 14.065704822540283
+-------------- Training ----------------
+Average Training Loss:        5.241217
+Average Training Accuracy:    3.4037
+Top 5 Training Accuracy:      11.7340
+---------------- Test ------------------
+Test Accuracy         1.5100
+Top 5 Test Accuracy           5.0800
+
+Epoch 6        Time: 11.992459058761597
+-------------- Training ----------------
+Average Training Loss:        5.222321
+Average Training Accuracy:    3.9744
+Top 5 Training Accuracy:      13.2345
+---------------- Test ------------------
+Test Accuracy         0.9900
+Top 5 Test Accuracy           4.1800
+
+Epoch 7        Time: 9.794782638549805
+-------------- Training ----------------
+Average Training Loss:        5.201336
+Average Training Accuracy:    4.3020
+Top 5 Training Accuracy:      13.8601
+---------------- Test ------------------
+Test Accuracy         1.2000
+Top 5 Test Accuracy           4.7700
+
+Epoch 8        Time: 9.884984970092773
+-------------- Training ----------------
+Average Training Loss:        5.187257
+Average Training Accuracy:    4.3549
+Top 5 Training Accuracy:      13.8824
+---------------- Test ------------------
+Test Accuracy         0.6100
+Top 5 Test Accuracy           2.8300
+
+Epoch 9        Time: 13.811107873916626
+-------------- Training ----------------
+Average Training Loss:        5.203084
+Average Training Accuracy:    3.9876
+Top 5 Training Accuracy:      13.0371
+---------------- Test ------------------
+Test Accuracy         1.0600
+Top 5 Test Accuracy           4.5300
+
+Epoch 10        Time: 11.359680891036987
+-------------- Training ----------------
+Average Training Loss:        5.150826
+Average Training Accuracy:    4.7994
+Top 5 Training Accuracy:      15.0991
+---------------- Test ------------------
+Test Accuracy         0.6600
+Top 5 Test Accuracy           3.8400
+
+Epoch 11        Time: 9.930593252182007
+-------------- Training ----------------
+Average Training Loss:        5.169444
+Average Training Accuracy:    4.5624
+Top 5 Training Accuracy:      14.3911
+---------------- Test ------------------
+Test Accuracy         0.3500
+Top 5 Test Accuracy           2.3000
+
+Epoch 12        Time: 10.347314834594727
+-------------- Training ----------------
+Average Training Loss:        5.095319
+Average Training Accuracy:    5.5603
+Top 5 Training Accuracy:      17.1804
+---------------- Test ------------------
+Test Accuracy         0.8100
+Top 5 Test Accuracy           3.7700
+
+Epoch 13        Time: 15.041435718536377
+-------------- Training ----------------
+Average Training Loss:        5.161244
+Average Training Accuracy:    4.8828
+Top 5 Training Accuracy:      15.4755
+---------------- Test ------------------
+Test Accuracy         1.1200
+Top 5 Test Accuracy           4.5800
+
+Epoch 14        Time: 11.092294692993164
+-------------- Training ----------------
+Average Training Loss:        5.160534
+Average Training Accuracy:    4.5461
+Top 5 Training Accuracy:      14.5365
+---------------- Test ------------------
+Test Accuracy         1.4100
+Top 5 Test Accuracy           6.1100
+
+Epoch 15        Time: 9.817482233047485
+-------------- Training ----------------
+Average Training Loss:        5.108152
+Average Training Accuracy:    5.3385
+Top 5 Training Accuracy:      16.2496
+---------------- Test ------------------
+Test Accuracy         0.3000
+Top 5 Test Accuracy           1.6800
+
+Epoch 16        Time: 9.83806848526001
+-------------- Training ----------------
+Average Training Loss:        5.167275
+Average Training Accuracy:    4.8228
+Top 5 Training Accuracy:      15.0716
+---------------- Test ------------------
+Test Accuracy         0.6500
+Top 5 Test Accuracy           3.2000
+
+Epoch 17        Time: 14.904619932174683
+-------------- Training ----------------
+Average Training Loss:        5.120481
+Average Training Accuracy:    5.7780
+Top 5 Training Accuracy:      17.4550
+---------------- Test ------------------
+Test Accuracy         1.6000
+Top 5 Test Accuracy           5.7100
+
+Epoch 18        Time: 10.05619740486145
+-------------- Training ----------------
+Average Training Loss:        5.044194
+Average Training Accuracy:    6.7017
+Top 5 Training Accuracy:      19.5190
+---------------- Test ------------------
+Test Accuracy         0.3700
+Top 5 Test Accuracy           2.1300
+
+Epoch 19        Time: 9.99878215789795
+-------------- Training ----------------
+Average Training Loss:        5.096003
+Average Training Accuracy:    5.9123
+Top 5 Training Accuracy:      17.7612
+---------------- Test ------------------
+Test Accuracy         1.0600
+Top 5 Test Accuracy           4.3000
+
+Epoch 20        Time: 10.788715124130249
+-------------- Training ----------------
+Average Training Loss:        5.139535
+Average Training Accuracy:    5.2307
+Top 5 Training Accuracy:      16.1041
+---------------- Test ------------------
+Test Accuracy         2.2100
+Top 5 Test Accuracy           8.0700
+
+Epoch 21        Time: 14.633104801177979
+-------------- Training ----------------
+Average Training Loss:        5.098569
+Average Training Accuracy:    6.1727
+Top 5 Training Accuracy:      18.1234
+---------------- Test ------------------
+Test Accuracy         2.6800
+Top 5 Test Accuracy           7.2800
+
+Epoch 22        Time: 10.050018072128296
+-------------- Training ----------------
+Average Training Loss:        5.085364
+Average Training Accuracy:    6.4209
+Top 5 Training Accuracy:      18.7856
+---------------- Test ------------------
+Test Accuracy         1.1300
+Top 5 Test Accuracy           4.1600
+
+Epoch 23        Time: 9.816227912902832
+-------------- Training ----------------
+Average Training Loss:        5.128274
+Average Training Accuracy:    5.5573
+Top 5 Training Accuracy:      16.9332
+---------------- Test ------------------
+Test Accuracy         1.4900
+Top 5 Test Accuracy           5.2200
+
+Epoch 24        Time: 11.519920349121094
+-------------- Training ----------------
+Average Training Loss:        5.053753
+Average Training Accuracy:    7.1696
+Top 5 Training Accuracy:      20.5841
+---------------- Test ------------------
+Test Accuracy         0.8900
+Top 5 Test Accuracy           3.6300
+
+Epoch 25        Time: 13.672714471817017
+-------------- Training ----------------
+Average Training Loss:        5.103776
+Average Training Accuracy:    5.7668
+Top 5 Training Accuracy:      17.5049
+---------------- Test ------------------
+Test Accuracy         0.3800
+Top 5 Test Accuracy           2.0200
+
+Epoch 26        Time: 10.054626703262329
+-------------- Training ----------------
+Average Training Loss:        5.061979
+Average Training Accuracy:    6.7230
+Top 5 Training Accuracy:      19.2586
+---------------- Test ------------------
+Test Accuracy         0.7900
+Top 5 Test Accuracy           3.5200
+
+Epoch 27        Time: 9.863032579421997
+-------------- Training ----------------
+Average Training Loss:        5.093943
+Average Training Accuracy:    6.4250
+Top 5 Training Accuracy:      18.8090
+---------------- Test ------------------
+Test Accuracy         0.7200
+Top 5 Test Accuracy           3.4600
+
+Epoch 28        Time: 13.337447881698608
+-------------- Training ----------------
+Average Training Loss:        5.054068
+Average Training Accuracy:    6.5389
+Top 5 Training Accuracy:      18.6839
+---------------- Test ------------------
+Test Accuracy         1.1500
+Top 5 Test Accuracy           3.6400
+
+Epoch 29        Time: 12.53961706161499
+-------------- Training ----------------
+Average Training Loss:        5.056247
+Average Training Accuracy:    6.8400
+Top 5 Training Accuracy:      19.4936
+---------------- Test ------------------
+Test Accuracy         1.1300
+Top 5 Test Accuracy           3.9200
+
+Epoch 30        Time: 9.964480876922607
+-------------- Training ----------------
+Average Training Loss:        5.033689
+Average Training Accuracy:    7.5338
+Top 5 Training Accuracy:      21.5159
+---------------- Test ------------------
+Test Accuracy         1.7100
+Top 5 Test Accuracy           5.6700
+
+Epoch 31        Time: 9.794322490692139
+-------------- Training ----------------
+Average Training Loss:        4.997687
+Average Training Accuracy:    7.9742
+Top 5 Training Accuracy:      21.9411
+---------------- Test ------------------
+Test Accuracy         1.6400
+Top 5 Test Accuracy           5.0800
+
+Epoch 32        Time: 13.823035478591919
+-------------- Training ----------------
+Average Training Loss:        4.988328
+Average Training Accuracy:    8.2774
+Top 5 Training Accuracy:      22.9299
+---------------- Test ------------------
+Test Accuracy         0.7500
+Top 5 Test Accuracy           3.3800
+
+Epoch 33        Time: 12.489489555358887
+-------------- Training ----------------
+Average Training Loss:        5.026809
+Average Training Accuracy:    8.1055
+Top 5 Training Accuracy:      22.5271
+---------------- Test ------------------
+Test Accuracy         1.1300
+Top 5 Test Accuracy           4.1900
+
+Epoch 34        Time: 10.04841136932373
+-------------- Training ----------------
+Average Training Loss:        4.991797
+Average Training Accuracy:    8.1828
+Top 5 Training Accuracy:      22.3633
+---------------- Test ------------------
+Test Accuracy         0.9000
+Top 5 Test Accuracy           3.4100
+
+Epoch 35        Time: 9.773030996322632
+-------------- Training ----------------
+Average Training Loss:        5.007922
+Average Training Accuracy:    8.1004
+Top 5 Training Accuracy:      22.3307
+---------------- Test ------------------
+Test Accuracy         1.0600
+Top 5 Test Accuracy           3.8300
+
+Epoch 36        Time: 12.69255781173706
+-------------- Training ----------------
+Average Training Loss:        5.106366
+Average Training Accuracy:    6.7108
+Top 5 Training Accuracy:      18.9077
+---------------- Test ------------------
+Test Accuracy         1.3600
+Top 5 Test Accuracy           4.7100
+
+Epoch 37        Time: 13.370973587036133
+-------------- Training ----------------
+Average Training Loss:        5.078436
+Average Training Accuracy:    6.7596
+Top 5 Training Accuracy:      19.2607
+---------------- Test ------------------
+Test Accuracy         1.6000
+Top 5 Test Accuracy           5.0600
+
+Epoch 38        Time: 10.133777379989624
+-------------- Training ----------------
+Average Training Loss:        5.031763
+Average Training Accuracy:    7.9447
+Top 5 Training Accuracy:      22.0713
+---------------- Test ------------------
+Test Accuracy         0.7200
+Top 5 Test Accuracy           2.9800
+
+Epoch 39        Time: 10.079115152359009
+-------------- Training ----------------
+Average Training Loss:        5.091944
+Average Training Accuracy:    6.8471
+Top 5 Training Accuracy:      19.6920
+---------------- Test ------------------
+Test Accuracy         0.9400
+Top 5 Test Accuracy           3.5600
+
+Epoch 40        Time: 15.570962905883789
+-------------- Training ----------------
+Average Training Loss:        4.983744
+Average Training Accuracy:    9.3526
+Top 5 Training Accuracy:      24.7803
+---------------- Test ------------------
+Test Accuracy         0.8700
+Top 5 Test Accuracy           3.4100
+
+Epoch 41        Time: 11.869006872177124
+-------------- Training ----------------
+Average Training Loss:        5.011432
+Average Training Accuracy:    8.9142
+Top 5 Training Accuracy:      23.8291
+---------------- Test ------------------
+Test Accuracy         0.6700
+Top 5 Test Accuracy           2.9200
+
+Epoch 42        Time: 10.656585931777954
+-------------- Training ----------------
+Average Training Loss:        5.027320
+Average Training Accuracy:    8.3883
+Top 5 Training Accuracy:      22.9411
+---------------- Test ------------------
+Test Accuracy         1.1800
+Top 5 Test Accuracy           4.6400
+
+Epoch 43        Time: 10.05232310295105
+-------------- Training ----------------
+Average Training Loss:        5.033178
+Average Training Accuracy:    7.8644
+Top 5 Training Accuracy:      21.4315
+---------------- Test ------------------
+Test Accuracy         2.1200
+Top 5 Test Accuracy           6.2300
+
+Epoch 44        Time: 15.1080482006073
+-------------- Training ----------------
+Average Training Loss:        5.008568
+Average Training Accuracy:    8.9773
+Top 5 Training Accuracy:      23.8037
+---------------- Test ------------------
+Test Accuracy         1.0500
+Top 5 Test Accuracy           4.2400
+
+Epoch 45        Time: 11.193442821502686
+-------------- Training ----------------
+Average Training Loss:        4.961060
+Average Training Accuracy:    9.4035
+Top 5 Training Accuracy:      24.6714
+---------------- Test ------------------
+Test Accuracy         1.0000
+Top 5 Test Accuracy           3.9400
+
+Epoch 46        Time: 9.893543004989624
+-------------- Training ----------------
+Average Training Loss:        4.982421
+Average Training Accuracy:    8.4849
+Top 5 Training Accuracy:      22.9909
+---------------- Test ------------------
+Test Accuracy         0.6700
+Top 5 Test Accuracy           3.1000
+
+Epoch 47        Time: 10.326603889465332
+-------------- Training ----------------
+Average Training Loss:        4.908485
+Average Training Accuracy:    11.2122
+Top 5 Training Accuracy:      28.2247
+---------------- Test ------------------
+Test Accuracy         1.0100
+Top 5 Test Accuracy           3.5200
+
+Epoch 48        Time: 14.735229969024658
+-------------- Training ----------------
+Average Training Loss:        4.946487
+Average Training Accuracy:    9.1807
+Top 5 Training Accuracy:      24.3398
+---------------- Test ------------------
+Test Accuracy         0.8100
+Top 5 Test Accuracy           3.3700
+
+Epoch 49        Time: 12.378726482391357
+-------------- Training ----------------
+Average Training Loss:        5.000295
+Average Training Accuracy:    8.7179
+Top 5 Training Accuracy:      23.5087
+---------------- Test ------------------
+Test Accuracy         0.9400
+Top 5 Test Accuracy           3.7500
+
+Epoch 50        Time: 10.339974641799927
+-------------- Training ----------------
+Average Training Loss:        4.987739
+Average Training Accuracy:    9.3862
+Top 5 Training Accuracy:      24.5199
+---------------- Test ------------------
+Test Accuracy         0.7600
+Top 5 Test Accuracy           3.1300
+
+Epoch 51        Time: 13.567222356796265
+-------------- Training ----------------
+Average Training Loss:        5.015583
+Average Training Accuracy:    9.2000
+Top 5 Training Accuracy:      24.3998
+---------------- Test ------------------
+Test Accuracy         1.1200
+Top 5 Test Accuracy           3.6600
+
+Epoch 52        Time: 13.841792106628418
+-------------- Training ----------------
+Average Training Loss:        4.924621
+Average Training Accuracy:    10.9141
+Top 5 Training Accuracy:      27.6388
+---------------- Test ------------------
+Test Accuracy         0.7300
+Top 5 Test Accuracy           2.9300
+
+Epoch 53        Time: 10.315996885299683
+-------------- Training ----------------
+Average Training Loss:        4.966301
+Average Training Accuracy:    9.5856
+Top 5 Training Accuracy:      24.9664
+---------------- Test ------------------
+Test Accuracy         0.9000
+Top 5 Test Accuracy           3.2900
+
+Epoch 54        Time: 9.878946542739868
+-------------- Training ----------------
+Average Training Loss:        4.910283
+Average Training Accuracy:    10.7147
+Top 5 Training Accuracy:      27.0406
+---------------- Test ------------------
+Test Accuracy         1.0900
+Top 5 Test Accuracy           3.9800
+
+Epoch 55        Time: 13.978712558746338
+-------------- Training ----------------
+Average Training Loss:        4.904988
+Average Training Accuracy:    11.4807
+Top 5 Training Accuracy:      28.6509
+---------------- Test ------------------
+Test Accuracy         0.6900
+Top 5 Test Accuracy           3.2100
+
+Epoch 56        Time: 15.597092151641846
+-------------- Training ----------------
+Average Training Loss:        4.838137
+Average Training Accuracy:    12.8866
+Top 5 Training Accuracy:      31.3151
+---------------- Test ------------------
+Test Accuracy         0.9100
+Top 5 Test Accuracy           3.4200
+
+Epoch 57        Time: 13.393611907958984
+-------------- Training ----------------
+Average Training Loss:        4.970252
+Average Training Accuracy:    9.9762
+Top 5 Training Accuracy:      25.7426
+---------------- Test ------------------
+Test Accuracy         0.9600
+Top 5 Test Accuracy           3.7100
+
+Epoch 58        Time: 17.97975182533264
+-------------- Training ----------------
+Average Training Loss:        5.022384
+Average Training Accuracy:    8.6395
+Top 5 Training Accuracy:      23.0713
+---------------- Test ------------------
+Test Accuracy         0.8500
+Top 5 Test Accuracy           3.5800
+
+Epoch 59        Time: 17.52195405960083
+-------------- Training ----------------
+Average Training Loss:        4.907078
+Average Training Accuracy:    11.5835
+Top 5 Training Accuracy:      28.8971
+---------------- Test ------------------
+Test Accuracy         1.1200
+Top 5 Test Accuracy           4.2900
+
+Epoch 60        Time: 11.024862289428711
+-------------- Training ----------------
+Average Training Loss:        4.865905
+Average Training Accuracy:    12.3230
+Top 5 Training Accuracy:      29.8391
+---------------- Test ------------------
+Test Accuracy         0.6000
+Top 5 Test Accuracy           2.6800
+
+Epoch 61        Time: 14.191398620605469
+-------------- Training ----------------
+Average Training Loss:        4.826899
+Average Training Accuracy:    12.3444
+Top 5 Training Accuracy:      29.9510
+---------------- Test ------------------
+Test Accuracy         0.8100
+Top 5 Test Accuracy           2.9100
+
+Epoch 62        Time: 9.448323249816895
+-------------- Training ----------------
+Average Training Loss:        4.851847
+Average Training Accuracy:    13.1053
+Top 5 Training Accuracy:      31.5308
+---------------- Test ------------------
+Test Accuracy         0.7600
+Top 5 Test Accuracy           2.9000
+
+Epoch 63        Time: 9.85474157333374
+-------------- Training ----------------
+Average Training Loss:        5.018336
+Average Training Accuracy:    8.7657
+Top 5 Training Accuracy:      23.0621
+---------------- Test ------------------
+Test Accuracy         0.7800
+Top 5 Test Accuracy           3.3400
+
+Epoch 64        Time: 12.098578691482544
+-------------- Training ----------------
+Average Training Loss:        4.867248
+Average Training Accuracy:    12.9639
+Top 5 Training Accuracy:      30.9153
+---------------- Test ------------------
+Test Accuracy         0.9600
+Top 5 Test Accuracy           3.6100
+
+Epoch 65        Time: 11.143564701080322
+-------------- Training ----------------
+Average Training Loss:        4.934466
+Average Training Accuracy:    11.0413
+Top 5 Training Accuracy:      27.5574
+---------------- Test ------------------
+Test Accuracy         1.0700
+Top 5 Test Accuracy           4.2600
+
+Epoch 66        Time: 10.240957975387573
+-------------- Training ----------------
+Average Training Loss:        4.897325
+Average Training Accuracy:    11.9415
+Top 5 Training Accuracy:      29.0822
+---------------- Test ------------------
+Test Accuracy         1.0400
+Top 5 Test Accuracy           3.8900
+
+Epoch 67        Time: 9.536926031112671
+-------------- Training ----------------
+Average Training Loss:        4.881538
+Average Training Accuracy:    12.7035
+Top 5 Training Accuracy:      30.8472
+---------------- Test ------------------
+Test Accuracy         0.7500
+Top 5 Test Accuracy           3.2000
+
+Epoch 68        Time: 13.050429821014404
+-------------- Training ----------------
+Average Training Loss:        4.842888
+Average Training Accuracy:    13.0239
+Top 5 Training Accuracy:      31.2866
+---------------- Test ------------------
+Test Accuracy         0.7400
+Top 5 Test Accuracy           3.0800
+
+Epoch 69        Time: 10.547194957733154
+-------------- Training ----------------
+Average Training Loss:        4.897424
+Average Training Accuracy:    11.7696
+Top 5 Training Accuracy:      28.7923
+---------------- Test ------------------
+Test Accuracy         0.8800
+Top 5 Test Accuracy           3.4800
+
+Epoch 70        Time: 10.215339660644531
+-------------- Training ----------------
+Average Training Loss:        4.890377
+Average Training Accuracy:    11.8622
+Top 5 Training Accuracy:      28.8188
+---------------- Test ------------------
+Test Accuracy         0.8600
+Top 5 Test Accuracy           3.1500
+
+Epoch 71        Time: 13.360555410385132
+-------------- Training ----------------
+Average Training Loss:        4.962720
+Average Training Accuracy:    11.5885
+Top 5 Training Accuracy:      28.6753
+---------------- Test ------------------
+Test Accuracy         1.2300
+Top 5 Test Accuracy           4.0900
+
+Epoch 72        Time: 9.98974084854126
+-------------- Training ----------------
+Average Training Loss:        4.838596
+Average Training Accuracy:    12.9598
+Top 5 Training Accuracy:      30.8258
+---------------- Test ------------------
+Test Accuracy         0.7700
+Top 5 Test Accuracy           2.7600
+
+Epoch 73        Time: 9.81768250465393
+-------------- Training ----------------
+Average Training Loss:        4.723227
+Average Training Accuracy:    15.8356
+Top 5 Training Accuracy:      36.1348
+---------------- Test ------------------
+Test Accuracy         0.8900
+Top 5 Test Accuracy           3.1000
+
+Epoch 74        Time: 11.327678442001343
+-------------- Training ----------------
+Average Training Loss:        4.722823
+Average Training Accuracy:    15.6942
+Top 5 Training Accuracy:      35.8805
+---------------- Test ------------------
+Test Accuracy         1.0000
+Top 5 Test Accuracy           3.4800
+
+Epoch 75        Time: 9.732054471969604
+-------------- Training ----------------
+Average Training Loss:        4.884266
+Average Training Accuracy:    12.9954
+Top 5 Training Accuracy:      31.0740
+---------------- Test ------------------
+Test Accuracy         1.0200
+Top 5 Test Accuracy           3.6600
+
+Epoch 76        Time: 10.31426739692688
+-------------- Training ----------------
+Average Training Loss:        4.902304
+Average Training Accuracy:    12.2437
+Top 5 Training Accuracy:      29.5115
+---------------- Test ------------------
+Test Accuracy         0.7000
+Top 5 Test Accuracy           2.7500
+
+Epoch 77        Time: 10.9149649143219
+-------------- Training ----------------
+Average Training Loss:        4.822992
+Average Training Accuracy:    14.6230
+Top 5 Training Accuracy:      34.0953
+---------------- Test ------------------
+Test Accuracy         0.8600
+Top 5 Test Accuracy           3.4000
+
+Epoch 78        Time: 10.09283995628357
+-------------- Training ----------------
+Average Training Loss:        4.775777
+Average Training Accuracy:    15.1805
+Top 5 Training Accuracy:      35.1440
+---------------- Test ------------------
+Test Accuracy         0.8200
+Top 5 Test Accuracy           3.2600
+
+Epoch 79        Time: 10.3274986743927
+-------------- Training ----------------
+Average Training Loss:        4.906282
+Average Training Accuracy:    12.6343
+Top 5 Training Accuracy:      30.3660
+---------------- Test ------------------
+Test Accuracy         0.8200
+Top 5 Test Accuracy           3.3000
+
+Epoch 80        Time: 11.495822191238403
+-------------- Training ----------------
+Average Training Loss:        4.859025
+Average Training Accuracy:    13.8713
+Top 5 Training Accuracy:      32.5155
+---------------- Test ------------------
+Test Accuracy         0.8400
+Top 5 Test Accuracy           3.3100
+
+Epoch 81        Time: 9.643884181976318
+-------------- Training ----------------
+Average Training Loss:        4.709522
+Average Training Accuracy:    16.8630
+Top 5 Training Accuracy:      37.9303
+---------------- Test ------------------
+Test Accuracy         1.0600
+Top 5 Test Accuracy           3.6200
+
+Epoch 82        Time: 9.935486316680908
+-------------- Training ----------------
+Average Training Loss:        4.817736
+Average Training Accuracy:    14.1256
+Top 5 Training Accuracy:      33.0200
+---------------- Test ------------------
+Test Accuracy         0.7900
+Top 5 Test Accuracy           3.0100
+
+Epoch 83        Time: 10.215740203857422
+-------------- Training ----------------
+Average Training Loss:        4.847445
+Average Training Accuracy:    14.6027
+Top 5 Training Accuracy:      33.6202
+---------------- Test ------------------
+Test Accuracy         0.9800
+Top 5 Test Accuracy           3.6000
+
+Epoch 84        Time: 12.07166862487793
+-------------- Training ----------------
+Average Training Loss:        4.843811
+Average Training Accuracy:    14.0289
+Top 5 Training Accuracy:      32.7708
+---------------- Test ------------------
+Test Accuracy         0.8200
+Top 5 Test Accuracy           3.1700
+
+Epoch 85        Time: 13.840359687805176
+-------------- Training ----------------
+Average Training Loss:        4.737638
+Average Training Accuracy:    16.3493
+Top 5 Training Accuracy:      36.6506
+---------------- Test ------------------
+Test Accuracy         0.7900
+Top 5 Test Accuracy           2.6800
+
+Epoch 86        Time: 14.329922437667847
+-------------- Training ----------------
+Average Training Loss:        4.777068
+Average Training Accuracy:    15.9200
+Top 5 Training Accuracy:      35.8358
+---------------- Test ------------------
+Test Accuracy         0.7600
+Top 5 Test Accuracy           2.6700
+
+Epoch 87        Time: 10.359563112258911
+-------------- Training ----------------
+Average Training Loss:        4.823369
+Average Training Accuracy:    14.0554
+Top 5 Training Accuracy:      32.6396
+---------------- Test ------------------
+Test Accuracy         1.1900
+Top 5 Test Accuracy           3.8100
+
+Epoch 88        Time: 9.91999077796936
+-------------- Training ----------------
+Average Training Loss:        4.868294
+Average Training Accuracy:    14.3951
+Top 5 Training Accuracy:      33.2957
+---------------- Test ------------------
+Test Accuracy         0.8500
+Top 5 Test Accuracy           2.9600
+
+Epoch 89        Time: 10.519281148910522
+-------------- Training ----------------
+Average Training Loss:        4.839908
+Average Training Accuracy:    13.7482
+Top 5 Training Accuracy:      31.9397
+---------------- Test ------------------
+Test Accuracy         1.0100
+Top 5 Test Accuracy           3.5300
+
+Epoch 90        Time: 12.12510871887207
+-------------- Training ----------------
+Average Training Loss:        4.842274
+Average Training Accuracy:    14.3707
+Top 5 Training Accuracy:      33.1685
+---------------- Test ------------------
+Test Accuracy         0.9300
+Top 5 Test Accuracy           3.1500
+
+Epoch 91        Time: 13.34425950050354
+-------------- Training ----------------
+Average Training Loss:        4.822744
+Average Training Accuracy:    15.3239
+Top 5 Training Accuracy:      34.8002
+---------------- Test ------------------
+Test Accuracy         0.7500
+Top 5 Test Accuracy           2.8600
+
+Epoch 92        Time: 10.902923822402954
+-------------- Training ----------------
+Average Training Loss:        4.827821
+Average Training Accuracy:    15.7471
+Top 5 Training Accuracy:      35.6364
+---------------- Test ------------------
+Test Accuracy         0.7700
+Top 5 Test Accuracy           2.8800
+
+Epoch 93        Time: 10.000203609466553
+-------------- Training ----------------
+Average Training Loss:        4.756075
+Average Training Accuracy:    16.2038
+Top 5 Training Accuracy:      35.9711
+---------------- Test ------------------
+Test Accuracy         0.9800
+Top 5 Test Accuracy           3.3800
+
+Epoch 94        Time: 10.264883995056152
+-------------- Training ----------------
+Average Training Loss:        4.856474
+Average Training Accuracy:    14.6250
+Top 5 Training Accuracy:      34.0576
+---------------- Test ------------------
+Test Accuracy         0.8900
+Top 5 Test Accuracy           3.3200
+
+Epoch 95        Time: 12.890330076217651
+-------------- Training ----------------
+Average Training Loss:        4.743709
+Average Training Accuracy:    16.7674
+Top 5 Training Accuracy:      37.0880
+---------------- Test ------------------
+Test Accuracy         0.9700
+Top 5 Test Accuracy           3.1800
+
+Epoch 96        Time: 16.49945569038391
+-------------- Training ----------------
+Average Training Loss:        4.732041
+Average Training Accuracy:    16.1560
+Top 5 Training Accuracy:      35.8500
+---------------- Test ------------------
+Test Accuracy         0.8700
+Top 5 Test Accuracy           2.8600
+
+Epoch 97        Time: 16.116634845733643
+-------------- Training ----------------
+Average Training Loss:        4.647523
+Average Training Accuracy:    18.4774
+Top 5 Training Accuracy:      39.7125
+---------------- Test ------------------
+Test Accuracy         1.0200
+Top 5 Test Accuracy           3.2200
+
+Epoch 98        Time: 13.19713306427002
+-------------- Training ----------------
+Average Training Loss:        4.673549
+Average Training Accuracy:    18.9992
+Top 5 Training Accuracy:      40.6881
+---------------- Test ------------------
+Test Accuracy         0.9600
+Top 5 Test Accuracy           3.1000
+
+Epoch 99        Time: 21.604665517807007
+-------------- Training ----------------
+Average Training Loss:        4.708500
+Average Training Accuracy:    17.4438
+Top 5 Training Accuracy:      38.0249
+---------------- Test ------------------
+Test Accuracy         0.8500
+Top 5 Test Accuracy           2.7300
+
